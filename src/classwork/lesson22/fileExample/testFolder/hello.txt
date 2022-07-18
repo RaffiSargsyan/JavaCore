@@ -1,0 +1,3 @@
+Hello from Java
+
+C:\Users\Raf\IdeaProjects\JavaCore22\src\classwork\lesson22\fileExample\testFolder\hello.txt
