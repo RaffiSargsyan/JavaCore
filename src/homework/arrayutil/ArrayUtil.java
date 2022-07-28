@@ -9,11 +9,11 @@ public class ArrayUtil {
             System.out.print(array[i] + "  ");
 
         }
-
         System.out.println();
         System.out.print('\n');
 
         System.out.print("Մասիվի ամենամեծ թիվը - ");
+
         int num = array[0];
         for (int i = 0; i < array.length; i++) {
             if (array[i] > num) {

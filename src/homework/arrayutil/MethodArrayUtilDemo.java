@@ -6,18 +6,23 @@ public class MethodArrayUtilDemo {
         MethodArrayUtil arru = new MethodArrayUtil();
         int maxval = arru.arrayMax(array);
         System.out.println(maxval);
+
         int minval = arru.arrayMin(array);
         System.out.println(minval);
+
         arru.evennumber(array);
         System.out.println();
+
         arru.oddnumber(array);
 
         int average = arru.averagearray(array);
         System.out.println();
         System.out.println(average);
 
+
         int sumelement = arru.sumelement(array);
         System.out.println(sumelement);
+
         arru.bubbleSort(array);
         System.out.println();
         arru.bubbleSortReverse(array);
