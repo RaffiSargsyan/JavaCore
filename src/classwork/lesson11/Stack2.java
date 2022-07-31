@@ -1,16 +1,16 @@
-package homework.stack;
+package classwork.lesson11;
 
-public class Stack {
-    private int stck[] = new int[10];
+public class Stack2 {
+    private int[] stck = new int[10];
     private int tos;
 
-    public Stack() {
+    public Stack2() {
         tos = -1;
     }
 
     public void push(int item) {
-        if (tos < stck.length -1){
-            stck[++tos]= item;
+        if (tos < stck.length - 1) {
+            stck[++tos] = item;
 
         }
     }
@@ -22,4 +22,3 @@ public class Stack {
 
     }
 }
-
