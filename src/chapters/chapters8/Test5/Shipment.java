@@ -1,6 +1,6 @@
 package chapters.chapters8.Test5;
 
-import sun.nio.cs.ext.SJIS;
+
 
 public class Shipment extends BoxWeight {
     double cost;

@@ -9,7 +9,6 @@ import homework.book.storage.UserStorage;
 
 import java.util.Scanner;
 
-import static sun.misc.Version.print;
 
 public class BookDemo implements Commands {
     private static Scanner scanner = new Scanner(System.in);
