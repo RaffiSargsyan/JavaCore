@@ -1,4 +1,5 @@
 package chapters.chapters1;
+
 /*
   Это простая программа на Java.
   Присвоить исходному файлу имя "Example.java"
