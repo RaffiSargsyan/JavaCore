@@ -9,9 +9,9 @@ public class IfSample {
         int x, y;
         x = 10;
         y = 20;
-        if (x < y) {
+        if (x < y) { //начало блока
             System.out.println("x меньше у");
-        }
+        }            // конец блока
         x = x * 2;
         if (x == y) {
             System.out.println("x теперь равно у");
