@@ -1,0 +1,14 @@
+1.In java we can write code only the following variants, for names methods, classes, values and others
+
+int  x2,x,count,a5,,this_is_ok
+class a Number
+String TheBestStudent
+
+we can't write it like this --->2a, 2count, this-is-not-ok, Not/ok also
+
+and  literals ---> 100,  55.5 , "x" , "Have a good day"
+
+2.Comments , There are 3 comments
+2.1 //
+2.2 /* abc... */
+2.3 for html documents  /** abc..  */
