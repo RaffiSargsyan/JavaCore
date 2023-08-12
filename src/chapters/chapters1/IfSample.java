@@ -14,7 +14,7 @@ public class IfSample {
         x = x * 2;
         if (x > y) System.out.println("x already bigger than y");
 
-        if (x == y) System.out.println("we won't see it in console");
+        if (x == y) System.out.println("We won't see it in console");
     }
 }
 

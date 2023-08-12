@@ -5,8 +5,8 @@ public class BlockTest {
         int x, y;
         y = 20;
         for (x = 0; x <= 10; x++) {
-            System.out.println("Значение x: " + x);
-            System.out.println("Значение y: " + y);
+            System.out.println("The variable x: " + x);
+            System.out.println("The variable y: " + y);
             y = y - 2;
         }
     }
