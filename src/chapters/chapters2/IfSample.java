@@ -1,9 +1,5 @@
 package chapters.chapters2;
 
-/*
-Продемонстрировать применение условного оператора if
-Присвоить исходному файлу имя IfSample.java
- */
 public class IfSample {
     public static void main(String[] args) {
         int x, y;
