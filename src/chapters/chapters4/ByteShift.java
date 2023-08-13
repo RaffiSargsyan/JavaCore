@@ -7,7 +7,7 @@ public class ByteShift {
 
         i = a << 2;
         b = (byte) (a << 2);
-        System.out.println(" Arajin" + a);
+        System.out.println("Пepвoнaчaльнoe значение а: " + a);
         System.out.println("i and b " + i + " " + b);
     }
 }

@@ -14,5 +14,9 @@ public class OpBitEquals {
         System.out.println("a = " + a);
         System.out.println("b = " + b);
         System.out.println("c = " + c);
+        int x = 4;
+        int k = 1;
+        boolean d = x > k;
+        System.out.println(d);
     }
 }
