@@ -2,8 +2,7 @@ package chapters.chapters3;
 
 public class Array {
     public static void main(String[] args) {
-        int month_days[];
-        month_days = new int[12];
+        int month_days[] = new int[12];
         month_days[0] = 31;
         month_days[1] = 28;
         month_days[2] = 31;
@@ -16,8 +15,7 @@ public class Array {
         month_days[9] = 31;
         month_days[10] = 30;
         month_days[11] = 31;
-        System.out.println("September amis@ " + month_days[9] + " or e");
-        System.out.println("Hunvar amis@ " + month_days[0] + " or e");
+        System.out.println("In December " + month_days[11] + " days.");
 
     }
 }

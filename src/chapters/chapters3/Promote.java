@@ -2,17 +2,14 @@ package chapters.chapters3;
 
 public class Promote {
     public static void main(String[] args) {
-
         byte b = 42;
-        char c = 'b';
+        char c = 'a';
         short s = 1024;
-        int i = 30000;
-        float f = 4.12f;
-        double d = 2.23333;
-
-
+        int i = 5000;
+        float f = 5.67f;
+        double d = .1234;
         double result = (f * b) + (i / c) - (d * s);
-        System.out.println((f * b) + "+" + (i / c) + " - " + (d * s));
-        System.out.println("result =" + result);
+        System.out.println((f * b) + " " + (i / c) + " - " + (d * s));
+        System.out.println("result = " + result);
     }
 }

@@ -2,20 +2,20 @@ package chapters.chapters3;
 
 public class Light {
     public static void main(String[] args) {
-        int lightspeed;
+        int lightSpeed;
         long days;
         long seconds;
         long distance;
 
-        lightspeed = 186000;
+        lightSpeed = 186000;
 
         days = 1000;
+
         seconds = days * 24 * 60 * 60;
 
-        distance = lightspeed * seconds;
-
-        System.out.print("luys@ " + days);
-        System.out.print(" orva  kancni ");
-        System.out.println(distance + " milivarkyan");
+        distance = lightSpeed * seconds;
+        System.out.print("За " + days);
+        System.out.print(" дней свет пройдет около ");
+        System.out.print(distance + " мыль");
     }
 }

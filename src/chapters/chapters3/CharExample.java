@@ -5,8 +5,7 @@ public class CharExample {
         char c = '\'';
         System.out.println(c);
         char c1 = '\n';
-        System.out.print(c1);
-        System.out.print(c1);
+        System.out.print(c);
         System.out.print(c1);
     }
 }

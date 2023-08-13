@@ -2,30 +2,20 @@ package chapters.chapters3;
 
 public class BoolTest {
     public static void main(String[] args) {
-//        int x = 10;
-//        int y = 20;
-//        boolean b = x > y;
-//        System.out.println(b);
-//
-//        b = false;
-//        b = true;
-//        if (b)
-//            System.out.println("10>9 havasare e " + (10 > 9));
+        boolean b;
 
-        boolean c;
+        b = false;
+        System.out.println("b equals " + b);
+        b = true;
+        System.out.println("b equals " + b);
+        if (b) System.out.println("we will see this code");
+        b = false;
+        if (b) System.out.println("we won't see it");
 
-        c = false;
-        System.out.println("c ravno " + c);
-        c = true;
-        System.out.println("c ravno " + c);
+        System.out.println("10 > 9 equals " + (10 > 9));
 
-        if (c);
-        System.out.println("etot kod vipolnyaetsa");
-        c = false;
-        if (c);
-        System.out.println("etot kod ne vipolnyaetsa");
-        System.out.println("10 > 9 ravno " + (10 > 9));
-
-
+        int x = 123_456_789;
+        int y = 123__456__789;
+        System.out.println(x + " " + y);
     }
 }
