@@ -9,15 +9,15 @@ public class ForEach3 {
             for (int j = 0; j < 5; j++)
                 nums[i][j] = (i + 1) * (j + 1);
 
-                for (int x[] : nums) {
-                    for (int y : x) {
-                        System.out.println("Значение равно " + y);
-                        sum += y;
-                    }
-                }
-                System.out.println("Сумма " + sum);
 
 
-        }
+         for (int x[] : nums) {
+             for (int y : x) {
+                 System.out.println("Значение равно " + y);
+                 sum += y;
+             }
+         }
+         System.out.println("Сумма " + sum);
     }
+}
 

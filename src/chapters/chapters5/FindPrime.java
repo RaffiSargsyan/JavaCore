@@ -7,17 +7,18 @@ public class FindPrime {
 
         num = 14;
 
-        if (num < 2) isPrime = false;
-        else isPrime = true;
+        if (num < 2) {
+            isPrime = false;
+        } else isPrime = true;
 
-        for (int i = 2; i < num/i ; i++) {
-            if (num % i == 0 ) {
+        for (int i = 2; i < num /    i; i++) {
+            if (num % i == 0) {
                 isPrime = false;
                 break;
             }
         }
-        if (isPrime)
+        if (isPrime) {
             System.out.println("Простое число");
-        else System.out.println("Не простое число");
+        } else System.out.println("Не простое число");
     }
 }

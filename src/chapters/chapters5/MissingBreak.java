@@ -3,7 +3,7 @@ package chapters.chapters5;
 public class MissingBreak {
     public static void main(String[] args) {
         for (int i = 0; i < 12; i++)
-            switch(i){
+            switch (i) {
                 case 0:
                 case 1:
                 case 2:
@@ -18,13 +18,10 @@ public class MissingBreak {
                 case 9:
                     System.out.println("i меньше 10");
                     break;
-                    default:
-                        System.out.println("i равно или больше 10");
+                default:
+                    System.out.println("i равно или больше 10");
 
             }
-
-
-
     }
 }
 

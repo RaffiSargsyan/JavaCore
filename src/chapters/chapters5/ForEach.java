@@ -7,9 +7,8 @@ public class ForEach {
 
         for (int x : nums) {
             System.out.println("Значение равно " + x);
-            sum += x;
+            sum += x; //sum = sum + x
         }
         System.out.println("Сумма равна " + sum);
-
     }
 }

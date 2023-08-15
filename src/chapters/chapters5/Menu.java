@@ -6,11 +6,11 @@ public class Menu {
         char choice;
         do {
             System.out.println("Справка по опературу:");
-            System.out.println("    1.if");
-            System.out.println("    2.switch");
-            System.out.println("    3.while");
-            System.out.println("    4.do-while");
-            System.out.println("    5.for\n");
+            System.out.println("1.if");
+            System.out.println("2.switch");
+            System.out.println("3.while");
+            System.out.println("4.do-while");
+            System.out.println("5.for\n");
             System.out.println("Выберите нужный пункт:");
             choice = (char) System.in.read();
         } while (choice < '1' || choice > '5');
@@ -37,17 +37,15 @@ public class Menu {
             case '4':
                 System.out.println("do-while:\n");
                 System.out.println("do {");
-                System.out.println("    Оператор;");
+                System.out.println("Оператор;");
                 System.out.println("} while (условие);");
                 break;
             case '5':
                 System.out.println("for:\n");
                 System.out.println("for(иницилизация; условие; итерация)");
-                System.out.println("  Оператор;");
+                System.out.println("Оператор;");
                 break;
         }
-
-
     }
 }
 

@@ -18,7 +18,6 @@ public class SampleSwitch {
                     break;
                 default:
                     System.out.println("i больще трех.");
-
             }
 
         }

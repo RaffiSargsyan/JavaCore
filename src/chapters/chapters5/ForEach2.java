@@ -7,10 +7,17 @@ public class ForEach2 {
 
         for (int x : nums) {
             System.out.println("Значение равно " + x);
-            sum += x;
-            if (x == 5)break;
-
+            sum += x; //sum = sum + x
+            if (x == 5) break;
         }
-        System.out.println("Сумма пяти первих элементов равна" + sum);
+        System.out.println("Сумма пяти первих элементов равна " + sum);
+        int max = 0;
+        int numbers[] = {1, 2, 3, 4, 5};
+        for (int number : numbers) {
+            System.out.println("Number equals= " + number);
+            max = max + number;
+            if (number == 3) break;
+        }
+        System.out.println(max);
     }
 }

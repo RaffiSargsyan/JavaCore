@@ -5,8 +5,5 @@ public class VarExample {
         int a = 1130;
         byte b = (byte) a;
         System.out.println(b);
-        int i = 257;
-        double d = 323.142;
-
     }
 }

@@ -6,7 +6,6 @@ public class Continue {
             System.out.print(i + " ");
             if (i % 2 == 0) continue;
             System.out.println("");
-
         }
     }
 }

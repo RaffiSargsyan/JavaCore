@@ -23,7 +23,7 @@ public class ContinueLabel {
                     System.out.println();
                     continue out;
                 }
-                System.out.print("  " + (i * j * 10 ));
+                System.out.print("  " + (i * j * 10));
             }
         }
         System.out.println();

@@ -6,7 +6,7 @@ public class Return {
         System.out.println("До возврата");
 
         if (t) return;
-
+        
         System.out.println("Этот оператор выполняться не будет");
     }
 }
