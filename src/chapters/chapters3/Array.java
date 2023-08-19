@@ -2,7 +2,8 @@ package chapters.chapters3;
 
 public class Array {
     public static void main(String[] args) {
-        int month_days[] = new int[12];
+        int[] month_days = new int[12];
+        System.out.println(month_days.length);
         month_days[0] = 31;
         month_days[1] = 28;
         month_days[2] = 31;
@@ -15,7 +16,7 @@ public class Array {
         month_days[9] = 31;
         month_days[10] = 30;
         month_days[11] = 31;
-        System.out.println("In December " + month_days[11] + " days.");
+        System.out.println("In December has" + month_days[11] + " days.");
 
     }
 }
