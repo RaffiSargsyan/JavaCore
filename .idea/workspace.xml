@@ -4,77 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4967e75-35a7-4a6d-9ab6-c8d4629dc0e6" name="Changes" comment="Java Examples">
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters5/ContinueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters5/DebugExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapters5/StringSwitch.java" afterDir="false" />
+    <list default="true" id="d4967e75-35a7-4a6d-9ab6-c8d4629dc0e6" name="Changes" comment="Again examples2">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters1/BlockTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters1/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters1/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters1/ForTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters1/IfSample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters1/Information" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters3/VarExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters3/VarExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Break.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/BreakErr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/BreakErr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/BreakLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/BreakLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/BreakLoop2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/BreakLoop2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/BreakLoop4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Comma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Comma.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Continue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Continue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/DoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/DoWhile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/FindPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/FindPrime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/ForEach.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/ForEach.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/ForEach2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/ForEach2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/ForEach3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/ForEach3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/ForTick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/ForTick.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/ForVar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/ForVar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/IfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/IfElse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/MissingBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/MissingBreak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Nested.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Nested.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/NoBody.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/NoBody.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/NoChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/NoChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Sample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Sample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/SampleSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/SampleSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Search.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Search.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/Switch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/While.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaCore/chapters/chapters5/While.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters1/BlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters2/BlockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters1/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters2/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters1/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters2/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters1/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters2/ForTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters1/IfSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters2/IfSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters1/Information" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters2/Information" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/VarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters3/VarExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakErr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/BreakErr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Comma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Comma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ContinueLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/ContinueLabel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/DoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/FindPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/FindPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/ForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForEach2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/ForEach2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForEach3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/ForEach3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForTick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/ForTick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/ForVar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/MissingBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/MissingBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Nested.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Nested.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/NoBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/NoBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/NoChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/NoChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Return.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Return.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/SampleSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/SampleSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters2/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters2/Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,23 +47,28 @@
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/TrainingWithJava&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BlockTest">
-    <configuration name="BlockTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters2.BlockTest" />
+  <component name="RunManager" selected="Application.FigurePainter2">
+    <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.array.ArrayExample" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters2.*" />
+          <option name="PATTERN" value="classwork.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters5.ContinueExample" />
+    <configuration name="ArrayExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.array.ArrayExample2" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters5.*" />
+          <option name="PATTERN" value="classwork.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueLabel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters5.ContinueLabel" />
+    <configuration name="FigurePainter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.figurepainter.FigurePainter" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters5.*" />
+          <option name="PATTERN" value="homework.figurepainter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DebugExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters5.DebugExample" />
+    <configuration name="FigurePainter2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.figurepainter.FigurePainter2" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters5.*" />
+          <option name="PATTERN" value="homework.figurepainter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Return" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters5.Return" />
+    <configuration name="chapters.chapters3.ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters3.ArrayExample" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters5.*" />
+          <option name="PATTERN" value="chapters.chapters3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BlockTest" />
-        <item itemvalue="Application.Return" />
-        <item itemvalue="Application.ContinueExample" />
-        <item itemvalue="Application.DebugExample" />
-        <item itemvalue="Application.ContinueLabel" />
+        <item itemvalue="Application.FigurePainter2" />
+        <item itemvalue="Application.FigurePainter" />
+        <item itemvalue="Application.ArrayExample2" />
+        <item itemvalue="Application.ArrayExample" />
+        <item itemvalue="Application.chapters.chapters3.ArrayExample" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +177,16 @@
       <workItem from="1691916641666" duration="14360000" />
       <workItem from="1691977829735" duration="5241000" />
       <workItem from="1692094699298" duration="11112000" />
-      <workItem from="1692114873515" duration="826000" />
+      <workItem from="1692114873515" duration="9542000" />
+      <workItem from="1692158926943" duration="7510000" />
+      <workItem from="1692169185377" duration="1294000" />
+      <workItem from="1692170790381" duration="119000" />
+      <workItem from="1692170977445" duration="95000" />
+      <workItem from="1692171456539" duration="1032000" />
+      <workItem from="1692172543185" duration="692000" />
+      <workItem from="1692178279187" duration="1272000" />
+      <workItem from="1692434768136" duration="5204000" />
+      <workItem from="1692443198183" duration="54000" />
     </task>
     <task id="LOCAL-00001" summary="ExampleOne">
       <created>1675100451380</created>
@@ -290,7 +237,28 @@
       <option name="project" value="LOCAL" />
       <updated>1691946684038</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Java Example">
+      <created>1692116202493</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692116202493</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Java Example">
+      <created>1692116282763</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692116282763</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Again examples">
+      <created>1692442980832</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1692442980832</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -301,7 +269,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -314,20 +294,14 @@
     <MESSAGE value="JavaCore" />
     <MESSAGE value="Java 1995" />
     <MESSAGE value="Java Examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Examples" />
+    <MESSAGE value="Java Example" />
+    <MESSAGE value="Again examples" />
+    <MESSAGE value="Again examples2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Again examples2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/chapters/chapters3/CharDemo.java</url>
-          <line>3</line>
-          <properties class="chapters.chapters3.CharDemo" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/chapters/chapters3/CharDemo2.java</url>
           <line>2</line>
@@ -344,9 +318,14 @@
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapters/chapters3/Array.java</url>
+          <url>file://$PROJECT_DIR$/src/chapters/chapters2/Example2.java</url>
           <line>4</line>
-          <option name="timeStamp" value="14" />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/classwork/array/ArrayExample.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
