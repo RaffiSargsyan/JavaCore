@@ -7,7 +7,7 @@ public class Break {
             second:{
                 third:{
                     System.out.println("before statement, break.");
-                    if (t) break second;
+                    if (t) break first;
                     System.out.println("This statement will not be executed");
                 }
                 System.out.println("This statement will not be executed");

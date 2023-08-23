@@ -11,7 +11,6 @@ public class NoChange {
         System.out.println();
         for (int x : nums)
             System.out.print(x + " ");
-        System.out.println();
     }
 }
 

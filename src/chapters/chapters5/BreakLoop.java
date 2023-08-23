@@ -5,6 +5,7 @@ public class BreakLoop {
         for (int i = 1; i < 1000; i++) {
             if (i == 10) break; //here we say that we to want stopped loop
             System.out.println("i = " + i);
+
         }
         System.out.println("loop stopped");
     }
