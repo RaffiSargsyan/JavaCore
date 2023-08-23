@@ -15,7 +15,7 @@ public class ArrayUtil {
         System.out.print("Մասիվի ամենամեծ թիվը - ");
 
         int num = array[0];
-        for (int i = 0; i < array.length; i++) {
+        for (int i = 1; i < array.length; i++) {
             if (array[i] > num) {
                 num = array[i];
             }
@@ -26,7 +26,7 @@ public class ArrayUtil {
 
         System.out.print("Մասիվի ամենափոքրը թիվը - ");
 
-        for (int i = 0; i < array.length; i++) {
+        for (int i = 1; i < array.length; i++) {
             if (array[i] < num) {
                 num = array[i];
             }
@@ -44,9 +44,9 @@ public class ArrayUtil {
         }
         System.out.println("Քանակը = " + numbers + "");
 
-        numbers = 0;
-        System.out.print('\n');
 
+        System.out.print('\n');
+        numbers = 0;
         System.out.print("Մասիվի բոլոր կենտ էլեմենտները + քանակը - ");
         for (int i = 0; i < array.length; i++) {
             if (array[i] % 2 != 0) {

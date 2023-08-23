@@ -6,7 +6,7 @@ public class Example2 {
         num = 100;        // but in this line variable num already have value
         System.out.println("This is variable num: " + " = " + num);
 
-        num = num * 2;    //here num is 100 because 100 * 2 = 200
+        num = num * 2;
         System.out.print("This variable num * 2 equals: ");
         System.out.println(num);
 

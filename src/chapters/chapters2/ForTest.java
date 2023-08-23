@@ -2,8 +2,8 @@ package chapters.chapters2;
 
 public class ForTest {
     public static void main(String[] args) {
-        int x;
-        for (x = 0; x <= 10; x++) {
+
+        for (int x = 0; x <= 10; x++) {
             System.out.println("Value x: " + x);
         }
         System.out.println("\n");

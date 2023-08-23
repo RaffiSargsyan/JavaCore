@@ -2,7 +2,7 @@ package chapters.chapters5;
 
 public class Switch {
     public static void main(String[] args) {
-        int month = 8;
+        int month = 5;
         String season;
         switch (month) {
             case 12:
@@ -23,6 +23,6 @@ public class Switch {
             default:
                 season = "other season";
         }
-        System.out.println("September refers is " + season);
+        System.out.println("May refers is " + season);
     }
 }

@@ -63,6 +63,9 @@ public class ArraySecond {
         System.out.println(avg);
 
 
+
+
+
 //        int[] numbers = {4, 10, 2, 99, 75, -5, 7, 10, 12};
 //        for (int i = 0; i < numbers.length; i++) {
 //            System.out.print(numbers[i] + " ");
@@ -75,6 +78,7 @@ public class ArraySecond {
 //            }
 //        }
 //        System.out.println(max);
+
 //        int min = numbers[0];
 //        for (int i = 1; i < numbers.length; i++) {
 //            if (numbers[i] < min) {
@@ -104,10 +108,10 @@ public class ArraySecond {
 //        }
 //        System.out.println(countOfArray);
 
-//        int countOddofArray = 0;
+//        int countOfOddArray = 0;
 //        for (int i = 0; i < numbers.length; i++) {
 //            if (numbers[i] % 2 != 0) {
-//                countOddofArray++;
+//                countOfOddArray++;
 //            }
 //        }
 //        System.out.println(countOddofArray);

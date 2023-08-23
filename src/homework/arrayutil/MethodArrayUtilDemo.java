@@ -4,24 +4,24 @@ public class MethodArrayUtilDemo {
     public static void main(String[] args) {
         int[] array = {20, 40, -1, 0, 98, 8, 2, 3, 12, 3};
         MethodArrayUtil arru = new MethodArrayUtil();
-        int maxval = arru.arrayMax(array);
-        System.out.println(maxval);
+        int maxVal = arru.arrayMax(array);
+        System.out.println(maxVal);
 
-        int minval = arru.arrayMin(array);
-        System.out.println(minval);
+        int minVal = arru.arrayMin(array);
+        System.out.println(minVal);
 
-        arru.evennumber(array);
+        arru.evenNumber(array);
         System.out.println();
 
-        arru.oddnumber(array);
+        arru.oddNumber(array);
 
         int average = arru.averagearray(array);
         System.out.println();
         System.out.println(average);
 
 
-        int sumelement = arru.sumelement(array);
-        System.out.println(sumelement);
+        int sumOfElements = arru.sumElement(array);
+        System.out.println(sumOfElements);
 
         arru.bubbleSort(array);
         System.out.println();

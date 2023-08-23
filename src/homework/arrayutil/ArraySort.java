@@ -4,7 +4,7 @@ public class ArraySort {
     public static void main(String[] args) {
         int[] numbers = {56, 87, 7, -8, 0, 14, 7, 65};
         int tmp = 0;
-        System.out.println("Մեծից փոքր");
+        System.out.println("Big to little");
         for (int i = 0; i < numbers.length; i++) {
             for (int j = i + 1; j < numbers.length; j++) {
                 if (numbers[i] < numbers[j]) {
@@ -20,7 +20,7 @@ public class ArraySort {
 
         System.out.print('\n');
 
-        System.out.println("Փոքրից մեծ");
+        System.out.println("Small to big");
         for (int i = 0; i < numbers.length; i++) {
             for (int j = i + 1; j < numbers.length; j++) {
                 if (numbers[i] > numbers[j]) {

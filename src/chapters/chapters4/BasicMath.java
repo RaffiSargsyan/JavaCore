@@ -2,7 +2,7 @@ package chapters.chapters4;
 
 public class BasicMath {
     public static void main(String[] args) {
-        System.out.println("Цeлoчиcлeннaя арифметика");
+        System.out.println("Integer arithmetic");
         int a = 1 + 1;
         int b = a * 3;
         int c = b / 4;
@@ -14,7 +14,7 @@ public class BasicMath {
         System.out.println("d = " + d);
         System.out.println("e = " + e);
 
-        System.out.println("\nApифмeтикa с плавающей точкой");
+        System.out.println("\nFloating point arithmetic");
         double da = 1 + 1;
         double db = da * 3;
         double dc = db / 4;

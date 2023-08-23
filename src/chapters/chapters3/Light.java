@@ -14,8 +14,8 @@ public class Light {
         seconds = days * 24 * 60 * 60;
 
         distance = lightSpeed * seconds;
-        System.out.print("За " + days);
-        System.out.print(" дней свет пройдет около ");
-        System.out.print(distance + " мыль");
+        System.out.print("for " + days);
+        System.out.print(" days the light will pass about ");
+        System.out.print(distance );
     }
 }

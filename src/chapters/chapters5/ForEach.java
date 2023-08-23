@@ -6,9 +6,9 @@ public class ForEach {
         int sum = 0;
 
         for (int x : nums) {
-            System.out.println("Значение равно " + x);
+            System.out.println("The value is " + x);
             sum += x; //sum = sum + x
         }
-        System.out.println("Сумма равна " + sum);
+        System.out.println("The sum is " + sum);
     }
 }

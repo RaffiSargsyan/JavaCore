@@ -18,7 +18,7 @@ public class FindPrime {
             }
         }
         if (isPrime) {
-            System.out.println("Простое число");
-        } else System.out.println("Не простое число");
+            System.out.println("Prime number");
+        } else System.out.println("Not a prime number");
     }
 }

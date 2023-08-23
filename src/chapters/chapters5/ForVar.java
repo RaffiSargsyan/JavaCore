@@ -6,7 +6,7 @@ public class ForVar {
         boolean done = false;
         i = 0;
         for (; !done; ) { //i++
-            System.out.println("i равно " + i);
+            System.out.println("i equals " + i);
             if (i == 10) done = true;
             i++;
         }

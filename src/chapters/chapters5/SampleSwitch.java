@@ -5,19 +5,19 @@ public class SampleSwitch {
         for (int i = 0; i < 6; i++) {
             switch (i) {
                 case 0:
-                    System.out.println("i равно нулю.");
+                    System.out.println("i equals 0.");
                     break;
                 case 1:
-                    System.out.println("i равно единице.");
+                    System.out.println("i equals 1.");
                     break;
                 case 2:
-                    System.out.println("i равно двум.");
+                    System.out.println("i equals 2.");
                     break;
                 case 3:
-                    System.out.println("i равно трем.");
+                    System.out.println("i equasl 3.");
                     break;
                 default:
-                    System.out.println("i больще трех.");
+                    System.out.println("i is greater than three.");
             }
 
         }

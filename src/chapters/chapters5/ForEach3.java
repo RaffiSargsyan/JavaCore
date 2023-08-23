@@ -13,11 +13,11 @@ public class ForEach3 {
 
          for (int x[] : nums) {
              for (int y : x) {
-                 System.out.println("Значение равно " + y);
+                 System.out.println("The value is " + y);
                  sum += y;
              }
          }
-         System.out.println("Сумма " + sum);
+         System.out.println("Sum " + sum);
     }
 }
 

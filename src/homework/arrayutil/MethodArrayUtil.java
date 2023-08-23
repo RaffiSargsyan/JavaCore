@@ -7,10 +7,8 @@ public class MethodArrayUtil {
             if (arr[i] > max) {
                 max = arr[i];
             }
-
         }
         return max;
-
     }
 
     int arrayMin(int[] arr) {
@@ -18,15 +16,12 @@ public class MethodArrayUtil {
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] < min) {
                 min = arr[i];
-
             }
-
         }
-
         return min;
     }
 
-    void evennumber(int[] arr) {
+    void evenNumber(int[] arr) {
         int count = 0;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] % 2 == 0) {
@@ -39,7 +34,7 @@ public class MethodArrayUtil {
 
     }
 
-    void oddnumber(int[] arr) {
+    void oddNumber(int[] arr) {
         int count = 0;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] % 2 != 0) {
@@ -47,23 +42,19 @@ public class MethodArrayUtil {
                 count++;
 
             }
-
         }
         System.out.print("count  " + count);
-
     }
 
     int averagearray(int[] arr) {
         int sum = 0;
         for (int i = 0; i < arr.length; i++) {
             sum += arr[i];
-
-
         }
         return sum / arr.length;
     }
 
-    int sumelement(int[] arr) {
+    int sumElement(int[] arr) {
         int sum = 0;
         for (int i = 0; i < arr.length; i++) {
             sum += arr[i];
@@ -73,41 +64,31 @@ public class MethodArrayUtil {
     }
 
     void bubbleSort(int[] arr) {
-        int tmp = 0;
+        int temp = 0;
         for (int i = 0; i < arr.length; i++) {
             for (int j = i + 1; j < arr.length; j++) {
                 if (arr[i] > arr[j]) {
-                    tmp = arr[i];
+                    temp = arr[i];
                     arr[i] = arr[j];
-                    arr[j] = tmp;
+                    arr[j] = temp;
                 }
-
             }
             System.out.print(arr[i] + " ");
-
         }
-
-
     }
 
     void bubbleSortReverse(int[] arr) {
         int tmp = 0;
         for (int i = 0; i < arr.length; i++) {
             for (int j = i + 1; j < arr.length; j++) {
-                if (arr[i]< arr[j]){
-                    tmp= arr[i];
-                    arr[i]=arr[j];
-                    arr[j]= tmp;
-
+                if (arr[i] < arr[j]) {
+                    tmp = arr[i];
+                    arr[i] = arr[j];
+                    arr[j] = tmp;
                 }
-
-
             }
-
             System.out.print(arr[i] + " ");
         }
-
-
     }
 }
 

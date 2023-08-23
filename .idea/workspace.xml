@@ -4,14 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4967e75-35a7-4a6d-9ab6-c8d4629dc0e6" name="Changes" comment="Again Example">
+    <list default="true" id="d4967e75-35a7-4a6d-9ab6-c8d4629dc0e6" name="Changes" comment="Examples">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Nested.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Nested.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/NoChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/NoChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters2/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters2/Example2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters2/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters2/ForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters3/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters3/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/CharDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters3/CharDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/CharDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters3/CharDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/DynInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters3/DynInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters3/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/BasicMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters4/BasicMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/ByteShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters4/ByteShift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters4/Ternary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakErr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/BreakErr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/FindPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/FindPrime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/ForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForEach2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/ForEach2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForEach3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/ForEach3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForTick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/ForTick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/ForVar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/MissingBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/MissingBreak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/NoBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/NoBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Return.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Return.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/SampleSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/SampleSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapters5/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/SortB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/SortB.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/arrayutil/ArraySecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/arrayutil/ArraySecond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/arrayutil/CharArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/arrayutil/CharArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/arrayutil/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/arrayutil/ArraySort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/arrayutil/ArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/arrayutil/ArrayUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/arrayutil/MethodArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/arrayutil/MethodArrayUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/arrayutil/MethodArrayUtilDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/arrayutil/MethodArrayUtilDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +93,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CharArrayExample">
+  <component name="RunManager" selected="Application.ArraySort">
     <configuration name="ArraySecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="homework.arrayutil.ArraySecond" />
       <module name="JavaCore" />
@@ -80,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters5.Break" />
+    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.arrayutil.ArraySort" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters5.*" />
+          <option name="PATTERN" value="homework.arrayutil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters5.BreakLoop" />
+    <configuration name="ArrayUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.arrayutil.ArrayUtil" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapters5.*" />
+          <option name="PATTERN" value="homework.arrayutil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,8 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapters5.Nested" />
+    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapters5.ContinueExample" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySort" />
         <item itemvalue="Application.CharArrayExample" />
+        <item itemvalue="Application.ArrayUtil" />
         <item itemvalue="Application.ArraySecond" />
-        <item itemvalue="Application.Break" />
-        <item itemvalue="Application.BreakLoop" />
-        <item itemvalue="Application.Nested" />
+        <item itemvalue="Application.ContinueExample" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +226,10 @@
       <workItem from="1692698811308" duration="46000" />
       <workItem from="1692701568914" duration="1808000" />
       <workItem from="1692728945483" duration="545000" />
+      <workItem from="1692767624278" duration="915000" />
+      <workItem from="1692777546255" duration="3324000" />
+      <workItem from="1692785941956" duration="1759000" />
+      <workItem from="1692801309372" duration="1354000" />
     </task>
     <task id="LOCAL-00001" summary="ExampleOne">
       <created>1675100451380</created>
@@ -291,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692553379688</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Examples">
+      <created>1692767866716</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1692767866716</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,7 +370,8 @@
     <MESSAGE value="Again examples2" />
     <MESSAGE value="Again" />
     <MESSAGE value="Again Example" />
-    <option name="LAST_COMMIT_MESSAGE" value="Again Example" />
+    <MESSAGE value="Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -7,7 +7,7 @@ public class DynInit {
         double c = Math.sqrt(a * a + b * b);
         double d = Math.min(a, b);
         System.out.println(d);
-        System.out.println("Гипoтeнyзa равна " + c);
+        System.out.println("The hypotenuse is " + c);
     }
 
 }

@@ -4,19 +4,19 @@ import java.util.Scanner;
 
 public class IfElse {
     public static void main(String[] args) {
-        int month = 3;
+        int month = 4;
         String season = null;
         if (month == 12 || month == 1 || month == 2) {
-            season = "зима";
+            season = "Winter";
         } else if (month == 3 || month == 4 || month == 5) {
-            season = "весна";
+            season = "Spring !!";
         } else if (month == 6 || month == 7 || month == 8) {
-            season = "осень";
+            season = "Summer";
         } else if (month == 9 || month == 10 || month == 12) {
-            season = "зима";
+            season = "Autumn";
         } else {
-            season = "вымышленным месяцам";
+            season = "Uups,not this month";
         }
-        System.out.println("Декабрь относится к " + season);
+        System.out.println("May refers to " + season);
     }
 }
