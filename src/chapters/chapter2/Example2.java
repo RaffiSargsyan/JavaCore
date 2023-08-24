@@ -3,7 +3,7 @@ package chapters.chapter2;
 public class Example2 {
     public static void main(String[] args) {
         int num;          // only created variable,which name is - num
-        num = 100;        // but in this line variable num already have value
+        num = 100;        // but in this line variable num already has value
         System.out.println("This is variable num: " + " = " + num);
 
         num = num * 2;
