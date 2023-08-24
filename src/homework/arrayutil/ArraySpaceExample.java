@@ -2,25 +2,35 @@ package homework.arrayutil;
 
 public class ArraySpaceExample {
     public static void main(String[] args) {
-        char[] spaceArray = {' ', 'c', 'a', 't', ' ', 'b', 'i', ' ', 'b', ' ', ' '};
-        int firstIndex = 0;
-        int lastIndex = spaceArray.length - 1;
+        char[] spaceArray = {' ', ' ', 'A', 'm', 'a', ' ', ' ', 'l', 'i', 'a', ' ', ' '};
+        int startIndex = 0;
+        int endIndex = spaceArray.length - 1;
 
-        while (firstIndex < lastIndex && spaceArray[lastIndex] == ' ') {
-            lastIndex--;
+        for (int i = 0; i < spaceArray.length; i++) {
+            if (spaceArray[startIndex] == ' ') {
+                startIndex = startIndex + 1;
+            } else {
+                break;
+            }
+        }
+        for (int i = endIndex; i > 0; i--) {
+            if (spaceArray[endIndex] == ' ') {
+                endIndex--;
+            } else {
+                break;
+            }
 
         }
-        while (firstIndex < lastIndex && spaceArray[firstIndex] == ' ') {
-            firstIndex++;
-        }
 
-        char[] result = new char[(lastIndex - firstIndex) + 1];
+        char[] result = new char[endIndex - startIndex + 1];
         int index = 0;
-        for (int i = firstIndex; i < lastIndex + 1; i++) {
+        for (int i = startIndex; i <= endIndex; i++) {
             result[index++] = spaceArray[i];
         }
         for (char c : result) {
-            System.out.print(c);
+            System.out.println(c);
         }
+
+
     }
 }
