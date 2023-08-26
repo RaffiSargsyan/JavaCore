@@ -1,44 +1,43 @@
 package homework.arrayutil;
 
 public class MethodArrayUtil {
-    int arrayMax(int[] arr) {
-        int max = arr[0];
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] > max) {
-                max = arr[i];
+
+    int findMaxNumber(int[] array) {
+        int max = array[0];
+        for (int i = 1; i < array.length; i++) {
+            if (array[i] > max) {
+                max = array[i];
             }
         }
         return max;
     }
 
-    int arrayMin(int[] arr) {
-        int min = arr[0];
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] < min) {
-                min = arr[i];
+    int arrayMin(int[] array) {
+        int min = array[0];
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] < min) {
+                min = array[i];
             }
         }
         return min;
     }
 
-    void evenNumber(int[] arr) {
+    void evenNumbers(int[] array) {
         int count = 0;
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] % 2 == 0) {
-                System.out.print(arr[i] + " ");
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] % 2 == 0) {
+                System.out.print(array[i] + " ");
                 count++;
             }
-
         }
-        System.out.print(" count " + count);
-
+        System.out.print(" Count " + count);
     }
 
-    void oddNumber(int[] arr) {
+    void oddNumbers(int[] array) {
         int count = 0;
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] % 2 != 0) {
-                System.out.print(arr[i] + " ");
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] % 2 != 0) {
+                System.out.print(array[i] + " ");
                 count++;
 
             }
@@ -46,48 +45,53 @@ public class MethodArrayUtil {
         System.out.print("count  " + count);
     }
 
-    int averagearray(int[] arr) {
+    int averageOfArray(int[] array) {
         int sum = 0;
-        for (int i = 0; i < arr.length; i++) {
-            sum += arr[i];
+        for (int i = 0; i < array.length; i++) {
+            sum += array[i];
+
         }
-        return sum / arr.length;
+        return sum / array.length;
     }
 
-    int sumElement(int[] arr) {
+    int sumElement(int[] array) {
         int sum = 0;
-        for (int i = 0; i < arr.length; i++) {
-            sum += arr[i];
+        for (int i = 0; i < array.length; i++) {
+            sum += array[i];
 
         }
         return sum;
     }
 
-    void bubbleSort(int[] arr) {
-        int temp = 0;
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = i + 1; j < arr.length; j++) {
-                if (arr[i] > arr[j]) {
-                    temp = arr[i];
-                    arr[i] = arr[j];
-                    arr[j] = temp;
+    void bubbleSort(int[] array) {
+        for (int i = 0; i < array.length; i++) {
+            for (int j = 1; j < array.length - i; j++) {
+                if (array[j] > array[j - 1]) {
+                    int temp = array[j];
+                    array[j] = array[j - 1];
+                    array[j - 1] = temp;
                 }
             }
-            System.out.print(arr[i] + " ");
+        }
+        for (int x : array) {
+            System.out.print(x + " ");
         }
     }
 
-    void bubbleSortReverse(int[] arr) {
-        int tmp = 0;
-        for (int i = 0; i < arr.length; i++) {
-            for (int j = i + 1; j < arr.length; j++) {
-                if (arr[i] < arr[j]) {
-                    tmp = arr[i];
-                    arr[i] = arr[j];
-                    arr[j] = tmp;
+
+    void bubbleSortReverse(int[] array) {
+
+        for (int i = 0; i < array.length; i++) {
+            for (int j = 1; j < array.length - i; j++) {
+                if (array[j] < array[j - 1]) {
+                    int temp = array[j];
+                    array[j] = array[j - 1];
+                    array[j - 1] = temp;
                 }
             }
-            System.out.print(arr[i] + " ");
+        }
+        for (int x : array) {
+            System.out.print(x + " ");
         }
     }
 }

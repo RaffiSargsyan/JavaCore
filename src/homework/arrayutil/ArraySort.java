@@ -2,7 +2,8 @@ package homework.arrayutil;
 
 public class ArraySort {
     public static void main(String[] args) {
-        int[] array = {7, 55, 8, -8, 0, 14, 90, 65};
+        int[] array = {20, 40, -1, 0, 98, 8, 2, 3, 12, 3};
+
 
 //        int temp = array[0];
 //        array[0] = array[1];

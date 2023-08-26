@@ -5,186 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4967e75-35a7-4a6d-9ab6-c8d4629dc0e6" name="Changes" comment="Example">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/BoxDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/BoxDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/BoxDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/BoxDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/BoxDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/SquareDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/arrayutil/SpaceArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/figurepainter/FigurePainterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/BoxDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/BoxDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter6/TestStack2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/OverloadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/OverloadTestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classwork/calculator/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/practice3/PracticeTernaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/practice3/PracticeWithTernary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters10/Apple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters10/EnumDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters2/BlockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/BlockTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters2/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters2/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters2/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/ForTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters2/IfSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/IfSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters2/Information" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Information" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/Area.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/ArrayExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/AutoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/AutoArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/Average.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/BoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/BoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/CharDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/CharDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/CharDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/CharDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/CharExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/CharExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/Conversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/DynInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/DynInit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/FigurePainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/FigurePainter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/LifeTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/LifeTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/Light.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/NumberArrayPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/NumberArrayPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/Promote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/Promote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/Scope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/Scope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/ThreeDMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/ThreeDMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/TwoDArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/TwoDArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters3/VarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter3/VarExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/BasicMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/BasicMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/BitLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/BitLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/BoolLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/BoolLogic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/ByteShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/ByteShift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/ByteUShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/ByteUShift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/HexByte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/HexByte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/IntDec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/IntDec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/Modulus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/Modulus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/MultByaTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/MultByaTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/OpBitEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/OpBitEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/OpEquals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/OpEquals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters4/Ternary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter4/Ternary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/Break.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakErr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/BreakErr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/BreakLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/BreakLoop2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/BreakLoop3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/BreakLoop4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/BreakLoop4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Comma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/Comma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Continue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/Continue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ContinueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/ContinueExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ContinueLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/ContinueLabel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/DebugExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/DebugExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/DoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/DoWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/FindPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/FindPrime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/ForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForEach2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/ForEach2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForEach3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/ForEach3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForTick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/ForTick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/ForVar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/ForVar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/MissingBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/MissingBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Nested.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/Nested.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/NoBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/NoBody.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/NoChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/NoChange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Return.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/Return.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/Sample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/SampleSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/SampleSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/StringSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/StringSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters5/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter5/While.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/Box.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/BoxDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/BoxDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/BoxDemo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/BoxDemo4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/BoxDemo5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/BoxDemo6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/BoxDemo7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/SquareTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters6/TestStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/AccessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/AccessTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/Box2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/Box2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/Box3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/Box3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/CallByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/CallByValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/Length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/Length.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/OverLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/OverLoad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/OverLoad2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/OverLoad2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/OverLoadCons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/OverLoadCons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/OverLoadCons2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/OverLoadCons2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/OverLoadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/OverLoadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/OverLoadDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/OverLoadDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/PassArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/PassArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/PassOb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/PassOb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/PassObjRe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/PassObjRe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/RetOb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/RetOb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/StackNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/StackNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/StaticByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/StaticByName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/StaticDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/StaticDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/StringDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/StringDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/StringDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/StringDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/StringDemo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/Test3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/Test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/Test4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/Test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/Test5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/TestStackNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/TestStackNew.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/UseStatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/UseStatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/VarArgs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/VarArgs2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/VarArgs2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters7/VarArgs3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/VarArgs3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test/SimpleInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test/SimpleInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test10/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test10/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test10/AbstractAreas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test10/AbstractAreas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test10/AbstractDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test10/AbstractDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test10/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test10/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test10/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test10/Figure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test10/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test10/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test10/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test10/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test11/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test11/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test11/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test11/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test2/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test2/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test2/Acecess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test2/Acecess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test2/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test2/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test3/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test3/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test3/Box2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test3/Box2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test3/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test3/BoxWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test3/BoxWeight2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test3/BoxWeight2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test3/BoxWeight3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test3/BoxWeight3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test3/ColorBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test3/ColorBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test3/DemoBoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test3/DemoBoxWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test3/DemoSuper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test3/DemoSuper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test3/RefDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test3/RefDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test4/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test4/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test4/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test4/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test4/UseSuper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test4/UseSuper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test5/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test5/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test5/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test5/BoxWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test5/DemoShipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test5/DemoShipment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test5/Shipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test5/Shipment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test6/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test6/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test6/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test6/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test6/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test6/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test6/CallingCons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test6/CallingCons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test7/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test7/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test7/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test7/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test7/Override.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test7/Override.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test8/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test8/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test8/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test8/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test8/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test8/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test8/Dispatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test8/Dispatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test9/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test9/Figure.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test9/FindAreas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test9/FindAreas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test9/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test9/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapters8/Test9/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/Test9/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter6/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter6/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter6/BoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter6/BoxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter6/BoxDemo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter6/BoxDemo5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter6/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter6/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter6/SquareDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter6/SquareDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter7/OverLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/OverLoad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/calculator/CalculatorDemo.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/arrayutil/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/arrayutil/ArraySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/arrayutil/ArraySpaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/arrayutil/ArraySpaceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/figurepainter/FigurePainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/figurepainter/FigurePainter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/figurepainter/FigurePainter2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/arrayutil/MethodArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/arrayutil/MethodArrayUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/arrayutil/MethodArrayUtilDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/arrayutil/MethodArrayUtilDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/practic2/PracticeHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/practic2/PracticeHomework.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,9 +89,48 @@
       <recent name="chapter" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SquareDemo">
-    <configuration name="BoxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter6.BoxDemo" />
+  <component name="RunManager" selected="Application.OverloadTestDemo">
+    <configuration name="ArraySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.arrayutil.ArraySort" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.arrayutil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverloadTestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classwork.OverloadTestDemo" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classwork.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeTernaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.practice3.PracticeTernaryTest" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.practice3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter6.TestStack" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -260,47 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoxDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter6.BoxDemo2" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapters.chapter6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BoxDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter6.BoxDemo3" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapters.chapter6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BoxDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter6.BoxDemo4" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapters.chapter6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SquareDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter6.SquareDemo" />
+    <configuration name="TestStack2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter6.TestStack2" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -314,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SquareDemo" />
-        <item itemvalue="Application.BoxDemo4" />
-        <item itemvalue="Application.BoxDemo3" />
-        <item itemvalue="Application.BoxDemo2" />
-        <item itemvalue="Application.BoxDemo" />
+        <item itemvalue="Application.OverloadTestDemo" />
+        <item itemvalue="Application.TestStack2" />
+        <item itemvalue="Application.TestStack" />
+        <item itemvalue="Application.PracticeTernaryTest" />
+        <item itemvalue="Application.ArraySort" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +227,14 @@
       <workItem from="1692785941956" duration="1759000" />
       <workItem from="1692801309372" duration="8071000" />
       <workItem from="1692863136343" duration="678000" />
-      <workItem from="1692868001953" duration="11745000" />
+      <workItem from="1692868001953" duration="15182000" />
+      <workItem from="1692949292018" duration="5215000" />
+      <workItem from="1692961291975" duration="4645000" />
+      <workItem from="1692972941689" duration="2810000" />
+      <workItem from="1692980451943" duration="631000" />
+      <workItem from="1692981138682" duration="228000" />
+      <workItem from="1692981383590" duration="1293000" />
+      <workItem from="1693025795321" duration="804000" />
     </task>
     <task id="LOCAL-00001" summary="ExampleOne">
       <created>1675100451380</created>
@@ -491,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692803223370</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Example">
+      <created>1692894298409</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1692894298409</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -565,14 +422,14 @@
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/homework/arrayutil/ArraySort.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="35" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/homework/arrayutil/ArraySpaceExample.java</url>
           <line>24</line>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/arrayutil/ArraySort.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="44" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -10,5 +10,7 @@ public class OverLoad {
         result = ob.test(123.25);
         System.out.println(
                 "Резулътат вызова ob.test(123.25):"+result);
+
+
     }
 }

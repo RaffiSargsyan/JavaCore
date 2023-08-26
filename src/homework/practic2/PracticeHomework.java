@@ -3,8 +3,7 @@ package homework.practic2;
 public class PracticeHomework {
 
     long convert(int minutes) {
-        int x = minutes * 60;
-        return x;
+        return minutes * 60;
     }
 
     int calcAge(int years) {
