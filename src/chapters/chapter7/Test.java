@@ -1,16 +1,18 @@
 package chapters.chapter7;
 
 public class Test {
-    int a , b;
+    int a, b;
 
-    Test(int i, int j){
+    Test(int i, int j) {
         a = i;
         b = j;
     }
-    boolean equalTo(Test o){
-        if (o.a== a && o.b == b)
+
+    boolean equalTo(Test own) {
+        if (own.a == a && own.b == b) {
             return true;
-            else return false;
+        } else {
+            return false;
+        }
     }
 }
-

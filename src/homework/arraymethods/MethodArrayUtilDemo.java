@@ -1,12 +1,11 @@
-package homework.arrayutil;
+package homework.arraymethods;
 
 public class MethodArrayUtilDemo {
     public static void main(String[] args) {
         int[] array = {20, 40, -1, 0, 98, 8, 2, 3, 12, 3};
         MethodArrayUtil findItems = new MethodArrayUtil();
 
-        int maxNumber = findItems.findMaxNumber(array);
-        System.out.println(maxNumber);
+        System.out.println(findItems.findMaxNumber(array));
 
         System.out.println(findItems.arrayMin(array));
 
@@ -14,15 +13,18 @@ public class MethodArrayUtilDemo {
 
         System.out.println();
 
-        System.out.println(findItems.averageOfArray(array));
-
-        int sumElement = findItems.sumElement(array);
-        System.out.println(sumElement);
-
-        findItems.bubbleSort(array);
+        findItems.oddNumbers(array);
 
         System.out.println();
 
+        int i = findItems.averageOfArray(array);
+        System.out.println(i);
+
+        int i1 = findItems.sumElement(array);
+        System.out.println(i1);
+
+        findItems.bubbleSort(array);
+        System.out.println();
         findItems.bubbleSortReverse(array);
     }
 }

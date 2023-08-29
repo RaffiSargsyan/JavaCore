@@ -1,4 +1,4 @@
-package homework.arrayutil;
+package homework.arraymethods;
 
 public class MethodArrayUtil {
 
@@ -30,7 +30,7 @@ public class MethodArrayUtil {
                 count++;
             }
         }
-        System.out.print(" Count " + count);
+        System.out.print("count " + count);
     }
 
     void oddNumbers(int[] array) {
@@ -49,7 +49,6 @@ public class MethodArrayUtil {
         int sum = 0;
         for (int i = 0; i < array.length; i++) {
             sum += array[i];
-
         }
         return sum / array.length;
     }
@@ -58,7 +57,6 @@ public class MethodArrayUtil {
         int sum = 0;
         for (int i = 0; i < array.length; i++) {
             sum += array[i];
-
         }
         return sum;
     }

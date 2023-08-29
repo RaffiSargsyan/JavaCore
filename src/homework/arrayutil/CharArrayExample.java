@@ -22,7 +22,7 @@ public class CharArrayExample {
         }
         System.out.println("eoResult = " + eoResult);
 
-        char[] bobArray = {'j', 'x', 'v', 'j', 'l', 'o', 'v', 'b'};
+        char[] bobArray = {'j', 'x', 'v', 'j', 'l', 'b', 'v', 'b'};
 
         boolean bobThere = false;
         for (int i = 0; i < bobArray.length - 2; i++) {
