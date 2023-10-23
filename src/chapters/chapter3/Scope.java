@@ -12,5 +12,4 @@ public class Scope {
         //y = 100; error  it's outside from block
         System.out.println("x: " + x); //x here is global
     }
-
 }

@@ -19,6 +19,5 @@ public class Stack2 {
         if (tos < 0) {
             return 0;
         } else return stck[tos--];
-
     }
 }

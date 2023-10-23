@@ -16,7 +16,6 @@ public class Array {
         month_days[9] = 31;
         month_days[10] = 30;
         month_days[11] = 31;
-        System.out.println("In December has" + month_days[11] + " days.");
-
+        System.out.println("In December has " + month_days[11] + " days");
     }
 }

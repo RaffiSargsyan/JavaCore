@@ -1,7 +1,5 @@
 package classwork.lesson24;
 
-import homework.students.StudentDemo;
-
 public class StorageDemo {
     public static void main(String[] args) {
         Storage<Integer> intStorage = new Storage<>();
@@ -9,7 +7,7 @@ public class StorageDemo {
 
         Storage<String> strStorage = new Storage<>();
 
-        strStorage.add("adadda");
+        strStorage.add("Arpine");
     }
     
 }

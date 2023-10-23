@@ -22,7 +22,8 @@ public class Box {
                 this.height == height &&
                 this.depth == depth;
     }
-    static void printColor(){
+
+    static void printColor() {
         System.out.println(color);
     }
 }

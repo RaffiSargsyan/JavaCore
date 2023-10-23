@@ -8,14 +8,14 @@ public class Light {
         long distance;
 
         lightSpeed = 186000;
-
         days = 1000;
-
         seconds = days * 24 * 60 * 60;
 
         distance = lightSpeed * seconds;
+
         System.out.print("for " + days);
         System.out.print(" days the light will pass about ");
+
         System.out.print(distance );
     }
 }

@@ -1,8 +1,7 @@
 package chapters.chapter5;
 
 public class Menu {
-    public static void main(String[] args)
-            throws java.io.IOException {
+    public static void main(String[] args) throws java.io.IOException {
         char choice;
         do {
             System.out.println("Operation help :");

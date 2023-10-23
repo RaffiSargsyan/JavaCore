@@ -8,7 +8,7 @@ public class LifeTime {
             int y = -1;
             System.out.println("y equals: " + y);
             y = 100;
-            System.out.println("y and now equals: " + y);
+            System.out.println("y now equals: " + y);
         }
     }
 }

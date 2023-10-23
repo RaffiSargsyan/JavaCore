@@ -3,12 +3,9 @@ package homework.book.models;
 public class Author {
 
     private String name;
-
     private String surname;
-
     private String email;
-
-    private String gender ;
+    private String gender;
 
     public Author() {
     }

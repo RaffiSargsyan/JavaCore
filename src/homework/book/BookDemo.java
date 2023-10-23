@@ -47,7 +47,7 @@ public class BookDemo implements Commands {
                 reguser();
             }
             if (command == LOGIN) {
-                loginuser();
+                loginUser();
 
                 while (userStorage.getSize() != 0) {
                     Commands.printCommand();
@@ -68,7 +68,7 @@ public class BookDemo implements Commands {
                             bookStorage.printBookByAuthorName(name);
                             break;
                         case 4:
-                            System.out.println("Input BookGener");
+                            System.out.println("Input BookGender");
                             String gener = scanner.nextLine();
                             bookStorage.printBookByGener(gener);
                             break;
@@ -96,13 +96,10 @@ public class BookDemo implements Commands {
                     }
                 }
             }
-
         }
-
-
     }
 
-    private static void loginuser() {
+    private static void loginUser() {
         System.out.println("Input login");
         String log = scanner.nextLine();
         System.out.println("Input password");
@@ -126,7 +123,7 @@ public class BookDemo implements Commands {
 
         Registration registration = new Registration(name, sname, age, log, pass);
         userStorage.addReg(registration);
-        System.out.println("User createt");
+        System.out.println("User created");
     }
 
     private static void addBook() {
@@ -137,7 +134,7 @@ public class BookDemo implements Commands {
         String bPriceStr = scanner.nextLine();
         System.out.println("Input book count");
         String bCountStr = scanner.nextLine();
-        System.out.println("Input book gener");
+        System.out.println("Input book gender");
         String bGener = scanner.nextLine();
 
         double bPrice = Double.parseDouble(bPriceStr);
@@ -157,7 +154,7 @@ public class BookDemo implements Commands {
         String surname = scanner.nextLine();
         System.out.println("Input author email");
         String email = scanner.nextLine();
-        System.out.println("Input autor gender");
+        System.out.println("Input author gender");
         String gender = scanner.nextLine();
 
         Author author = new Author(name, surname, email, gender);

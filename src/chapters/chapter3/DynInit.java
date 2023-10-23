@@ -9,5 +9,4 @@ public class DynInit {
         System.out.println(d);
         System.out.println("The hypotenuse is " + c);
     }
-
 }

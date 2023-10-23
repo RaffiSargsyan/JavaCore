@@ -3,24 +3,21 @@ package homework.book.models;
 public class Book {
 
     private String title;
-
     private Author author;
-
     private double price;
-
     private int count;
+    private String gender;
 
     public Book() {
     }
 
-    private String gener;
 
     public Book(String title, Author author, double price, int count, String gener) {
         this.title = title;
         this.author = author;
         this.price = price;
         this.count = count;
-        this.gener = gener;
+        this.gender = gener;
 
     }
 
@@ -57,11 +54,11 @@ public class Book {
     }
 
     public String getGener() {
-        return gener;
+        return gender;
     }
 
     public void setGener(String gener) {
-        this.gener = gener;
+        this.gender = gener;
     }
 
     @Override
@@ -71,7 +68,7 @@ public class Book {
                 ", author='" + author + '\'' +
                 ", price=" + price +
                 ", count=" + count +
-                ", gener='" + gener + '\'' +
+                ", gener='" + gender + '\'' +
                 '}';
     }
 }

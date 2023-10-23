@@ -20,8 +20,6 @@ public class ThreeDMatrix {
                 System.out.println();
             }
         }
-
-
     }
 }
 

@@ -1,9 +1,12 @@
 package homework.lesson14;
 
 public class BlockTest {
-    public static void main(String[] args) {
-        Block blokt = new Block();
+    static  {
+        System.exit(0);
+    }
 
+    public static void main(String[] args) {
+        System.out.println("hello");
     }
 
 }

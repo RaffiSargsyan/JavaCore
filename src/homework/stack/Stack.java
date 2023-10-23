@@ -19,7 +19,6 @@ public class Stack {
         if (tos < 0) {
             return 0;
         } else return stck[tos--];
-
     }
 }
 

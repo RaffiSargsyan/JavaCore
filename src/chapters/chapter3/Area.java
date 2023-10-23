@@ -7,6 +7,6 @@ public class Area {
         r = 10.8;
         pi = 3.1416;
         a = pi * r * r;
-        System.out.println("The area of the circle is " + a);
+        System.out.println("The area of the circle is: " + a);
     }
 }

@@ -3,11 +3,12 @@ package chapters.chapter3;
 public class BoolTest {
     public static void main(String[] args) {
         boolean b;
-
         b = false;
+
         System.out.println("b equals " + b);
         b = true;
         System.out.println("b equals " + b);
+
         if (b) System.out.println("we will see this code");
         b = false;
         if (b) System.out.println("we won't see it");

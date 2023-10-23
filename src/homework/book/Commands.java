@@ -15,11 +15,11 @@ public interface Commands {
     int REGISTRATION = 10;
 
     static void printLoogRek() {
-        System.out.println("Input "+ LOGIN + "for login");
-        System.out.println("Input "+ REGISTRATION+" for registration");
+        System.out.println("Input " + LOGIN + "for login");
+        System.out.println("Input " + REGISTRATION + " for registration");
     }
 
-    static void printCommand(){
+    static void printCommand() {
         System.out.println("input " + EXIT + " for exit");
         System.out.println("input " + ADD_BOOK + " for add book");
         System.out.println("input " + PRINT_ALL_BOOKS + " for print book");
@@ -29,8 +29,7 @@ public interface Commands {
         System.out.println("input " + ADD_AUTHOR + " for add author");
         System.out.println("input " + PRINT_AUTHOR + " for print author");
         System.out.println("input " + PRINT_AUTHOR_BY_INDEX + " for print author by index");
-
     }
-    }
+}
 
 

@@ -9,10 +9,11 @@ public class CharDemo {
         x = 99;
         y = 15;
         z = 55;
+        int k = 'F';
+        char d = 2;
+        System.out.println(k + " " + d);
         System.out.println("x = " + x + " y = " + y + " z = " + z);
         System.out.print("ch1 and ch2: ");
         System.out.println(ch1 + " " + ch3);
-
     }
-
 }
