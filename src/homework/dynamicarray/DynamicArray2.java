@@ -1,6 +1,6 @@
 package homework.dynamicarray;
 
-public class DynamicArray {
+public class DynamicArray2 {
 
     private int[] array = new int[10];
     private int size = 0;
@@ -12,21 +12,28 @@ public class DynamicArray {
                 temp[i] = array[i];
             }
             array = temp;
-
         }
         array[size++] = number;
     }
 
-    public boolean isEmpty() {
-        return size == 0;
+    public void print() {
+        for (int i = 0; i < size; i++) {
+            System.out.print(array[i] + " ");
+        }
+        System.out.println();
     }
+
 
     public int getByIndex(int index) {
         if (index < 0 || index >= size) {
-            System.out.println("Invalid index");
+            System.out.println("Invalid index !");
             return 0;
         }
         return array[index];
+    }
+
+    public boolean isEmpty() {
+        return size == 0;
     }
 
     public int getFirstIndexByValue(int value) {
@@ -46,6 +53,11 @@ public class DynamicArray {
 
     public void add(int index, int value) {
         if (size == array.length) {
+            int[] temp = new int[array.length + 10];
+            for (int i = 0; i < array.length; i++) {
+                temp[i] = array[i];
+            }
+            array = temp;
         }
         for (int i = size; i > index; i--) {
             array[i] = array[i - 1];
@@ -62,12 +74,4 @@ public class DynamicArray {
             size--;
         }
     }
-
-    public void print() {
-        for (int i = 0; i < size; i++) {
-            System.out.print(array[i] + " ");
-        }
-        System.out.println();
-    }
 }
-
