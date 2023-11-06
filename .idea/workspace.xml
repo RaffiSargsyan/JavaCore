@@ -5,10 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4967e75-35a7-4a6d-9ab6-c8d4629dc0e6" name="Changes" comment="Different tasks">
-      <change afterPath="$PROJECT_DIR$/src/exercise/ArrayExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/CharsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exercise/PracticeMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ip.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/ListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/StorageDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/algorithm/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/algorithm/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/algorithm/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/FileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/file/DataIOStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/file/FileReadAndWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/file/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/file/forString.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/serialization/SerializationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/serialization/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/serialization/file/example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/myExample/DataStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/testFolder/test2Folder/document.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/testFolder/test2Folder/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/testFolder/test2Folder/hello2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/testFolder/test2Folder/intex.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileUtil/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileUtil/fileTest/MyProfilePic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileUtil/fileTest/document.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileUtil/fileTest/home.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/fileUtil/fileTest/myResume.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/figurePainter/FigurePainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/figurePainter/FigurePainter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/file/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/file/FileUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +48,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -36,6 +66,18 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/io/BufferedWriter.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/io/Closeable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/io/PrintStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/io/Serializable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/io/Writer.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/lang/Iterable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/lang/Runnable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/Collection.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/Collections.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/Iterator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/LinkedList.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.desktop/javax/swing/Box.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -72,10 +114,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapters.chapter10.exceptionDemo" />
       <recent name="chapters.chapter2.asd" />
       <recent name="chapters.chapter8.Test4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\JavaCore\src\homework\fileUtil\fileTest" />
+      <recent name="C:\Users\Asus\IdeaProjects\JavaCore\src\homework\fileUtil" />
+      <recent name="C:\Users\Asus\IdeaProjects\JavaCore\src\homework\fileExample\testFolder\test2Folder" />
       <recent name="C:\Users\Asus\IdeaProjects\JavaCore\src\chapters\chapter10\example" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -89,13 +135,13 @@
       <recent name="chapters.chapter6.inheritance4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayExamples">
-    <configuration name="ArrayExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.ArrayExamples" />
+  <component name="RunManager" selected="Application.A">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter2.A" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.*" />
+          <option name="PATTERN" value="chapters.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +149,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharsMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.CharsMethod" />
+    <configuration name="Aa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aa" />
+      <module name="JavaCore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter14.ListExample" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercise.*" />
+          <option name="PATTERN" value="chapters.chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +169,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassCastExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice.ClassCastExceptionExample" />
+    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter14.SetExample" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice.*" />
+          <option name="PATTERN" value="chapters.chapter14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,25 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodArrayUtilDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.arraymethod.MethodArrayUtilDemo" />
+    <configuration name="b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.b" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.arraymethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PracticeMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercise.PracticeMethods" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercise.*" />
+          <option name="PATTERN" value="chapters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,19 +196,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayExamples" />
-      <item itemvalue="Application.CharsMethod" />
-      <item itemvalue="Application.PracticeMethods" />
-      <item itemvalue="Application.ClassCastExceptionExample" />
-      <item itemvalue="Application.MethodArrayUtilDemo" />
+      <item itemvalue="Application.A" />
+      <item itemvalue="Application.Aa" />
+      <item itemvalue="Application.b" />
+      <item itemvalue="Application.ListExample" />
+      <item itemvalue="Application.SetExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayExamples" />
-        <item itemvalue="Application.CharsMethod" />
-        <item itemvalue="Application.PracticeMethods" />
-        <item itemvalue="Application.ClassCastExceptionExample" />
-        <item itemvalue="Application.MethodArrayUtilDemo" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.Aa" />
+        <item itemvalue="Application.ListExample" />
+        <item itemvalue="Application.b" />
+        <item itemvalue="Application.SetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +307,25 @@
       <workItem from="1698050537412" duration="3141000" />
       <workItem from="1698054935769" duration="473000" />
       <workItem from="1698057085123" duration="619000" />
-      <workItem from="1698057718894" duration="8306000" />
+      <workItem from="1698057718894" duration="8440000" />
+      <workItem from="1698073714667" duration="1567000" />
+      <workItem from="1698079168388" duration="28000" />
+      <workItem from="1698143331327" duration="18368000" />
+      <workItem from="1698219799657" duration="4464000" />
+      <workItem from="1698262201295" duration="2396000" />
+      <workItem from="1698312227436" duration="2219000" />
+      <workItem from="1698315215789" duration="916000" />
+      <workItem from="1698334192043" duration="6894000" />
+      <workItem from="1698346296412" duration="7871000" />
+      <workItem from="1698403436984" duration="22616000" />
+      <workItem from="1698478899932" duration="6344000" />
+      <workItem from="1698489683941" duration="3152000" />
+      <workItem from="1698835825308" duration="1503000" />
+      <workItem from="1698929046166" duration="1212000" />
+      <workItem from="1698958967659" duration="5836000" />
+      <workItem from="1699023042960" duration="1585000" />
+      <workItem from="1699034262356" duration="3527000" />
+      <workItem from="1699084430000" duration="12097000" />
     </task>
     <task id="LOCAL-00001" summary="ExampleOne">
       <created>1675100451380</created>
@@ -395,7 +453,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698055311337</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Different tasks">
+      <created>1698071202844</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1698071202844</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Different tasks">
+      <created>1698342485354</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1698342485354</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,6 +552,11 @@
           <url>file://$PROJECT_DIR$/src/chapters/chapter5/While.java</url>
           <line>25</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/homework/fileUtil/FileUtil.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

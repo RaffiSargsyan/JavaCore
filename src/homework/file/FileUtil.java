@@ -12,10 +12,10 @@ public class FileUtil {
     static String path = "C:\\Users\\Raf\\IdeaProjects\\JavaCore22";
 
     public static void main(String[] args) throws IOException {
-        //fileSearch();
+        fileSearch();
         //contentSearch();
-        findLines();
-       // printSizeOfPackage();
+//        findLines();
+        // printSizeOfPackage();
     }
 
     //այս մեթոդը պետք է սքաններով վերցնի երկու string.
@@ -27,6 +27,7 @@ public class FileUtil {
         String folderName = scanner.nextLine();
         System.out.println("Input file name");
         String filename = scanner.nextLine();
+
         File file = new File(path);
         if (file.isDirectory()) {
             File[] files = file.listFiles();

@@ -1,5 +1,7 @@
 package homework.figurePainter;
 
+import java.io.File;
+
 public class FigurePainter {
     char c = '#';
 
