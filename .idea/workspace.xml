@@ -5,40 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4967e75-35a7-4a6d-9ab6-c8d4629dc0e6" name="Changes" comment="Different tasks">
-      <change afterPath="$PROJECT_DIR$/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ip.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/HashSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/SetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/Storage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/StorageDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapters/chapter14/TreeSetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/algorithm/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/algorithm/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/algorithm/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/FileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/file/DataIOStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/file/FileReadAndWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/file/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/file/forString.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/serialization/SerializationDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/serialization/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/fileExample/ioExample/serialization/file/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/myExample/DataStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/testFolder/test2Folder/document.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/testFolder/test2Folder/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/testFolder/test2Folder/hello2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileExample/testFolder/test2Folder/intex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileUtil/FileUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileUtil/fileTest/MyProfilePic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileUtil/fileTest/document.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileUtil/fileTest/home.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/fileUtil/fileTest/myResume.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter2/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapters/chapter2/A1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/figurePainter/FigurePainter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/figurePainter/FigurePainter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/file/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/file/FileUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +78,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -135,9 +105,22 @@
       <recent name="chapters.chapter6.inheritance4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A">
+  <component name="RunManager" selected="Application.A1">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapters.chapter2.A" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapters.chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter2.A1" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
@@ -169,25 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.chapter14.SetExample" />
+    <configuration name="chapters.chapter2.Aa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapters.chapter2.Aa" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapters.chapter14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapters.b" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapters.*" />
+          <option name="PATTERN" value="chapters.chapter2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,18 +167,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.A" />
+      <item itemvalue="Application.A1" />
+      <item itemvalue="Application.chapters.chapter2.Aa" />
       <item itemvalue="Application.Aa" />
-      <item itemvalue="Application.b" />
       <item itemvalue="Application.ListExample" />
-      <item itemvalue="Application.SetExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A1" />
         <item itemvalue="Application.A" />
+        <item itemvalue="Application.chapters.chapter2.Aa" />
         <item itemvalue="Application.Aa" />
         <item itemvalue="Application.ListExample" />
-        <item itemvalue="Application.b" />
-        <item itemvalue="Application.SetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -326,6 +296,9 @@
       <workItem from="1699023042960" duration="1585000" />
       <workItem from="1699034262356" duration="3527000" />
       <workItem from="1699084430000" duration="12097000" />
+      <workItem from="1699287115330" duration="6502000" />
+      <workItem from="1699462131774" duration="47000" />
+      <workItem from="1699556347552" duration="150000" />
     </task>
     <task id="LOCAL-00001" summary="ExampleOne">
       <created>1675100451380</created>
@@ -467,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698342485354</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Different tasks">
+      <created>1699287515128</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1699287515128</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -557,6 +537,11 @@
           <url>file://$PROJECT_DIR$/src/homework/fileUtil/FileUtil.java</url>
           <line>17</line>
           <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/chapters/chapter2/A.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
