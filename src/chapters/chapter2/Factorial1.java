@@ -1,6 +1,6 @@
 package chapters.chapter2;
 
-public class A1 {
+public class Factorial1 {
     public static void main(String[] args) {
         System.out.println(fact(4));
         //4 = 1*2*3*4;

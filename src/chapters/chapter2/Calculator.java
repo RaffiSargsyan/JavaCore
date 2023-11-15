@@ -44,7 +44,6 @@ public class Calculator {
                 break;
             default:
                 System.out.println("Oops! You can only use with numbers +, -, *, /");
-                input = scanner.nextLine();
                 return;
         }
 

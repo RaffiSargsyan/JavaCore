@@ -1,4 +1,4 @@
-package homework.collection;
+package collection.collectionExample;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -10,9 +10,9 @@ public class MapExample {
     private static final List<FootballTeamMember> footballTeamMember = new ArrayList<>();
 
     public static void main(String[] args) {
-         // System.out.println(createFootballTeam(footballTeamMember));
-       // System.out.println(removeFromMap(hashFootbal, 3));
-       // printAllMemberNames(hashFootbal);
+        // System.out.println(createFootballTeam(footballTeamMember));
+        // System.out.println(removeFromMap(hashFootball, 3));
+        // printAllMemberNames(hashFootball);
 
         printAllMembers(hashFootbal);
     }
@@ -32,7 +32,7 @@ public class MapExample {
         hashFootbal.put(1, "Xavi");
         hashFootbal.put(3, "Ineista");
         for (Integer integer : memberMap.keySet()) {
-            if (integer.equals(removedNumber)){
+            if (integer.equals(removedNumber)) {
                 hashFootbal.remove(removedNumber);
                 return true;
             }
@@ -58,9 +58,9 @@ public class MapExample {
     // 12 - Petros Petrosyan
     static void printAllMembers(Map<Integer, String> memberMap) {
         hashFootbal.put(10, "Messi");
-        hashFootbal.put(8, "Xavi");
+        hashFootbal.put(8, "Hazard");
         for (Map.Entry<Integer, String> integerStringEntry : memberMap.entrySet()) {
-            System.out.println(integerStringEntry.getKey() + " - " + integerStringEntry.getValue() );
+            System.out.println(integerStringEntry.getKey() + " - " + integerStringEntry.getValue());
 
         }
 

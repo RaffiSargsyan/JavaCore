@@ -1,4 +1,6 @@
-public class Aa {
+package chapters.chapter2;
+
+public class Test {
     public static void main(String[] args) {
         byte a;
         int x = 129;
@@ -11,7 +13,7 @@ public class Aa {
 
         String ss = a + " 1";
         System.out.println(ss);
-        Aa aa = new Aa();
+        Test aa = new Test();
         aa.setName("asd");
         String name1 = aa.getName();
         System.out.println(name1);

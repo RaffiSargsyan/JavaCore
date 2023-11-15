@@ -59,6 +59,8 @@ public class Person {
         copyPerson.setName("Arpine");
         copyPerson.setAge(25);
 
+
+        System.out.println("Original Person (Modified): " + originalPerson.getName() + ", Age " + originalPerson.getAge());
         System.out.println("Copied Person (Changed): " + copyPerson.getName() + ", Age: " + copyPerson.getAge());
 
     }

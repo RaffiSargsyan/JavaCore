@@ -14,7 +14,7 @@ public class Factorial {
 
     public static void main(String[] args) {
 
-        Factorial f = new Factorial();
+        Factorial1 f = new Factorial1();
         System.out.println(f.fact(3));
 
     }

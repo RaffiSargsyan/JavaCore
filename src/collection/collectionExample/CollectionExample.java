@@ -1,4 +1,4 @@
-package homework.collection;
+package collection.collectionExample;
 
 
 import java.util.*;
@@ -8,12 +8,12 @@ public class CollectionExample {
     public static void main(String[] args) throws NotIndex {
         String[] array1 = {"Java", "Sql", "Python"};
 
-        // System.out.println(arrayToList(array1));
-        // List<String> str = new ArrayList<String>();
-        // System.out.println(removeById(str, 45));
-        // List<String> arrayList  = new ArrayList<>();
-        // System.out.println(listToSet(arrayList));
-        // System.out.println(listToSet(arrayList).getClass());
+         System.out.println(arrayToList(array1));
+         List<String> str = new ArrayList<String>();
+         System.out.println(removeById(str, 45));
+         List<String> arrayList  = new ArrayList<>();
+         System.out.println(listToSet(arrayList));
+         System.out.println(listToSet(arrayList).getClass());
         //  List<Integer> list = new ArrayList<>();
         //  System.out.println(listToLinkedList(list));
         //  System.out.println(listToLinkedList(list).getClass());
@@ -115,6 +115,7 @@ public class CollectionExample {
             list.add(String.valueOf(i));
         }
         return list.size();
+
     }
 }
 
