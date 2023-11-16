@@ -10,7 +10,7 @@ public class Test {
         age = z;
     }
 
-    Test(String a1, int b1) {
+     Test(String a1, int b1) {
         name = a1;
         age = b1;
     }

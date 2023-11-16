@@ -27,5 +27,7 @@ public class HumanTest {
 
         int i = human1.sum1(10, 20, 21);
         System.out.println(i);
+        int[] array = new int[-1]; //negative array size exception
+        System.out.println(array.length);
     }
 }

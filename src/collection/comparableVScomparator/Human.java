@@ -47,7 +47,7 @@ public class Human implements Comparator<Human> {
 //        return 0;
 
 //        return this.age - obj.age; //another variant
-//    }
+//   }
 
     @Override
     public int compare(Human o1, Human o2) {
