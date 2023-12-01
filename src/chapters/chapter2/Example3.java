@@ -59,7 +59,7 @@ public class Example3 {
 
         System.out.println(Example3.UNIVERSITY_OF_STUDENT);
 
-        System.out.println("Общее количество: " + Example3.count);
+        System.out.println("Total: " + Example3.count);
 
         FileWriter fileWriter = new FileWriter("count.txt");
 

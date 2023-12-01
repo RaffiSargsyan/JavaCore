@@ -26,7 +26,5 @@ public class StorageDemo {
 
 
         Student student = studentStorage.getByIndex(0);
-
-
     }
 }

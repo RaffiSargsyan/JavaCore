@@ -22,5 +22,4 @@ public class Shipment extends BoxWeight {
         super(len, m);
         cost = c;
     }
-
 }

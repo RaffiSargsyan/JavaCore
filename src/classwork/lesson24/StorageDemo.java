@@ -9,5 +9,4 @@ public class StorageDemo {
 
         strStorage.add("Arpine");
     }
-    
 }

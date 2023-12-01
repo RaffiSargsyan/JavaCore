@@ -17,7 +17,7 @@ public class Storage<T> {
         }
     }
 
-    public T getByindex(int index) {
+    public T getByIndex(int index) {
         return (T) objects[index];
     }
 
@@ -26,5 +26,4 @@ public class Storage<T> {
         System.arraycopy(objects, 0, tmp, 0, size);
         objects = tmp;
     }
-
 }

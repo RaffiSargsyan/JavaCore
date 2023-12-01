@@ -6,8 +6,6 @@ public class Fibonacci {
 //        System.out.println(fib(10));
 //        System.out.println(fib3(10));
 //        System.out.println(fb(100));
-
-
     }
 
     private static long fib3(int n) {
@@ -17,7 +15,6 @@ public class Fibonacci {
 
         for (int i = 2; i <= n; i++) {
             array[i] = array[i - 1] + array[i - 2];
-
         }
         return array[n];
     }

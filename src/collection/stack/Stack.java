@@ -28,6 +28,4 @@ public class Stack<T> {
     public <T> boolean isEmpty() {
         return index == 0;
     }
-
-
 }

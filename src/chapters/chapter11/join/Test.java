@@ -6,13 +6,9 @@ public class Test {
         JoinExample2 myThread = new JoinExample2();
         myThread.start();
 
-
         // Waiting
-
         try {
-
             myThread.join(8000);
-
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

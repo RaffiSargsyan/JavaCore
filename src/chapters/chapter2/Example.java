@@ -5,22 +5,20 @@ public class Example {
     public static void main(String[] args) {
         System.out.println("Hi,Mom");
 
-        String s = "123oneTwoThree";
+        String s = "123oneTwo";
         int count = 0;
         for (int i = 0; i < s.length(); i++) {
             if (Character.isLetter(s.charAt(i))) {
                 count++;
             }
-
         }
         System.out.println("Is letter in our String = " + count);
+
         int count1 = 0;
         for (int i = 0; i < s.length(); i++) {
             if (Character.isDigit(s.charAt(i))) {
                 count1++;
             }
-
-
         }
         System.out.println("Digits in String is = " + count1);
 
@@ -31,5 +29,14 @@ public class Example {
             }
         }
         System.out.println("UpperCase symbols is = " + count3);
+
+        int count4 = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (Character.isLowerCase(s.charAt(i))) {
+                count4++;
+            }
+        }
+        System.out.println("LowerCase symbols is " + count4);
     }
 }
+

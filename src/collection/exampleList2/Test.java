@@ -10,12 +10,7 @@ public class Test {
         vector.add(8);
         vector.add(4);
         vector.add(8);
-        vector.add(4);
-        vector.add(8);
-        vector.add(4);
-        vector.add(8);
-        vector.add(4);
-        vector.add(4);
+
         vector.add(4);
         System.out.println(Collections.max(vector));
         System.out.println(vector.size());

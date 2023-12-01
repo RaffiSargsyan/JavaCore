@@ -16,7 +16,6 @@ public class DynamicArray {
         array[size++] = value;
 
     }
-
     void print() {
         for (int i = 0; i < size; i++) {
             System.out.print(array[i] + " ");

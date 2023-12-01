@@ -1,7 +1,8 @@
 package homework.bracechacker;
 
+import chapters.chapter2.Stack;
 
-import homework.stack.Stack;
+//import java.util.Stack;
 
 public class BraceChecker {
     private String text;
@@ -55,8 +56,6 @@ public class BraceChecker {
             System.err.println("Error: opened " + (char) stack.pop() + " but not closed");
         }
     }
-
-
 }
 
 

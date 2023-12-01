@@ -29,7 +29,5 @@ public class ThreadTest {
             }
         });
         t4.start();
-
-
     }
 }

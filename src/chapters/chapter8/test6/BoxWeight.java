@@ -20,5 +20,4 @@ public class BoxWeight extends Box {
         super(len);
         weight = len;
     }
-
 }

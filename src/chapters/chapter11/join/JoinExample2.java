@@ -1,8 +1,6 @@
 package chapters.chapter11.join;
 
 public class JoinExample2 extends Thread {
-
-
     @Override
     public void run() {
         for (int i = 1; i <= 5; i++) {

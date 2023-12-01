@@ -34,8 +34,5 @@ public class StackTest {
             }
         }
         return stack.isEmpty();
-
-
     }
-
 }

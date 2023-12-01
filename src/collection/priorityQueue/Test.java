@@ -31,11 +31,6 @@ public class Test {
         System.out.println(integers.poll());
         System.out.println(integers.poll());
 
-
-
-
         System.out.println(integers);
-
-
     }
 }

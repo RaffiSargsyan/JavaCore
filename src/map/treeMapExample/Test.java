@@ -11,10 +11,6 @@ public class Test {
 //        treeMap.put(null, "Lucy");
         System.out.println(treeMap);
         Set<Integer> integers = treeMap.keySet();
-
-
     }
-
-
 }
 

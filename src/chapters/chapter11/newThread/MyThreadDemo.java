@@ -17,5 +17,4 @@ public class MyThreadDemo {
         }
         System.out.println("Main Thread is ended");
     }
-
 }

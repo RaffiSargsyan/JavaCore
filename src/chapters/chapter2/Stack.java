@@ -4,17 +4,17 @@ public class Stack {
     int[] stack = new int[10];
     int tos;
 
-    Stack() {
+    public Stack() {
         tos = -1;
     }
 
-    void push(int x) {
+    public void push(int x) {
         if (tos == stack.length - 1) {
             System.out.println("stack is full");
         } else stack[++tos] = x;
     }
 
-    int pop() {
+    public int pop() {
         if (tos < 0) {
             System.out.println("stack is empty");
             return 0;

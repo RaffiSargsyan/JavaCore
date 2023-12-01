@@ -1,71 +1,74 @@
 package collection.collectionExample;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class MapExample {
-    private static final HashMap<Integer, String> hashFootbal = new HashMap<>();
-    private static final List<FootballTeamMember> footballTeamMember = new ArrayList<>();
 
     public static void main(String[] args) {
-        // System.out.println(createFootballTeam(footballTeamMember));
-        // System.out.println(removeFromMap(hashFootball, 3));
-        // printAllMemberNames(hashFootball);
+        List<FootballTeamMember> teamMembers = new ArrayList<>();
 
-        printAllMembers(hashFootbal);
+        teamMembers.add(new FootballTeamMember(10, "Messi"));
+        teamMembers.add(new FootballTeamMember(7, "Ronaldo"));
+        teamMembers.add(new FootballTeamMember(13, "Ballack"));
+        teamMembers.add(new FootballTeamMember(8, "Xavi"));
+        Map<Integer, String> footballTeam = createFootballTeam(teamMembers);
+
+        for (Map.Entry<Integer, String> entry : footballTeam.entrySet()) {
+            System.out.println("Player Number: " + entry.getKey() + ", Name: " + entry.getValue());
+        }
+
+        System.out.println("----------");
+
+        HashMap<Integer, String> hashMap = new HashMap<>();
+        hashMap.put(10, "Messi");
+        hashMap.put(7, "Ronaldo");
+        System.out.println(removeFromMap(hashMap, 7));
+        System.out.println(hashMap);
+
+        System.out.println("----------");
+
+        printAllMemberNames(footballTeam);
+
+        System.out.println("--------");
+        printAllMembers(footballTeam);
     }
 
     //Ունենք FootballTeamMember-ի լիստ, պետք է ստանանք HashMap որտեղ կեյ-ը կլինի խաղացողի համարը, իսկ վելյուն իրա անունը։
+    //We have a FootballTeamMember list, we need to get a HashMap where the key will be the player's number and the value will be his name.
     static Map<Integer, String> createFootballTeam(List<FootballTeamMember> members) {
+        HashMap<Integer, String> hashMap = new HashMap<>();
         for (FootballTeamMember member : members) {
-            hashFootbal.put(member.getNumber(), member.getName());
+            hashMap.put(member.getNumber(), member.getName());
         }
-        return hashFootbal;
-
+        return hashMap;
     }
 
     //Մեթոդի մեջ պետք է տրված մապ-ից ջնջենք removedNumber համարը եթե կա, ու վերադարձնենք true, եթե չկա վերադարձնենք false
+    //In the method, we must delete removedNumber from the given map if it exists and return true, if not return false
     static boolean removeFromMap(Map<Integer, String> memberMap, Integer removedNumber) {
-        hashFootbal.put(2, "Messi");
-        hashFootbal.put(1, "Xavi");
-        hashFootbal.put(3, "Ineista");
-        for (Integer integer : memberMap.keySet()) {
-            if (integer.equals(removedNumber)) {
-                hashFootbal.remove(removedNumber);
-                return true;
-            }
-
+        if (memberMap.containsKey(removedNumber)) {
+            memberMap.remove(removedNumber);
+            return true;
         }
         return false;
     }
 
     //Մեթոդով տպելու ենք միայն անունները
+    //We will only print the names with the method
     static void printAllMemberNames(Map<Integer, String> memberMap) {
-        hashFootbal.put(10, "Maradona");
-        hashFootbal.put(13, "Muller");
-        hashFootbal.put(12, "Ronaldino");
-        for (String value : memberMap.values()) {
-            System.out.println(value);
+        for (String x : memberMap.values()) {
+            System.out.print(x + " ");
         }
-
-
     }
 
-    //Մեթոդով տպելու ենք թե համարը, թե խաղացողի անունը հետյալ ձև՝
-    // 11 - Poxos Poxosyan
-    // 12 - Petros Petrosyan
+    //Մեթոդով տպելու ենք թե համարը, թե խաղացողի անունը
+    //With the method we will print either the number or the name of the player
     static void printAllMembers(Map<Integer, String> memberMap) {
-        hashFootbal.put(10, "Messi");
-        hashFootbal.put(8, "Hazard");
         for (Map.Entry<Integer, String> integerStringEntry : memberMap.entrySet()) {
-            System.out.println(integerStringEntry.getKey() + " - " + integerStringEntry.getValue());
-
+            System.out.println("Number - " + integerStringEntry.getKey() + " "
+                    + "Name - " + integerStringEntry.getValue());
         }
-
     }
-
 
     static class FootballTeamMember {
         private int number;

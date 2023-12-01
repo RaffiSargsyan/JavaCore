@@ -22,6 +22,4 @@ public class SimpleInheritance {
         System.out.println("Sum of i , j and k");
         subOb.sum();
     }
-
-
 }

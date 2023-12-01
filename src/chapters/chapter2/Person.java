@@ -5,13 +5,13 @@ public class Person {
     private String name;
     private int age;
 
-    // Constructor for Person object
+    // constructor for Person object
     public Person(String name, int age) {
         this.name = name;
         this.age = age;
     }
 
-    // constructor to create a new Person with copying
+    // constructor to create a new Person with copy
     public Person(Person other) {
         this.name = other.name;
         this.age = other.age;
@@ -28,12 +28,10 @@ public class Person {
 
     public void setName(String name) {
         this.name = name;
-
     }
 
     public void setAge(int age) {
         this.age = age;
-
     }
 
 
@@ -59,9 +57,7 @@ public class Person {
         copyPerson.setName("Arpine");
         copyPerson.setAge(25);
 
-
         System.out.println("Original Person (Modified): " + originalPerson.getName() + ", Age " + originalPerson.getAge());
         System.out.println("Copied Person (Changed): " + copyPerson.getName() + ", Age: " + copyPerson.getAge());
-
     }
 }

@@ -29,6 +29,5 @@ public class Example {
         for (Integer x : treeSet) {
             System.out.print(x + " ");
         }
-
     }
 }

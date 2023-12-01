@@ -9,7 +9,7 @@ public class SetExample {
         setString.add("Hi");
         setString.add("Hello");
         setString.add(null);
-//        setString.add("Hello"); it's duplicate
+        setString.add("Hello"); //it's duplicate and will be replaced
 
         for (String s : setString) {
             System.out.println(s);

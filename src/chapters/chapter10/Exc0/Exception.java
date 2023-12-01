@@ -7,7 +7,6 @@ public class Exception {
     public static void main(String[] args) {
         String num = "12m";
 
-
         try {
             int numbers = Integer.parseInt(num);
         } catch (NumberFormatException e) {

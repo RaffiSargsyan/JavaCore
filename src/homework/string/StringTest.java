@@ -2,12 +2,12 @@ package homework.string;
 
 public class StringTest {
     public static void main(String[] args) {
-        String name = "Poxos Poxosyan Poxosi";
+        String name = "Charles Aznavour";
         char[] chars = name.toCharArray();
         String result = "";
         for (int i = 0; i < chars.length; i++) {
-            if (chars[i] == 'o') {
-                result += "o".toUpperCase();
+            if (chars[i] == 'a') {
+                result += "a".toUpperCase();
             } else {
                 result += chars[i];
             }

@@ -28,5 +28,4 @@ public class FixedStack implements IntStack {
             return stack[tos--];
         }
     }
-
 }

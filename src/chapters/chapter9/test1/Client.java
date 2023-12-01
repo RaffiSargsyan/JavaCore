@@ -5,7 +5,6 @@ public class Client implements CallBack {
     public void callBack(int p) {
         System.out.println("In interface CallBack");
     }
-
     void nonInterface() {
         System.out.println("We can have own methods");
     }

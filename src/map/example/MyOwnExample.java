@@ -1,7 +1,6 @@
 package map.example;
 
 import java.util.HashMap;
-import java.util.Scanner;
 
 public class MyOwnExample {
     public static void main(String[] args) {

@@ -10,17 +10,18 @@ public class TreeSetExample {
         treeSet.add("Raffi");
         treeSet.add("Amalia");
         treeSet.add("Arpine");
+
         for (String s : treeSet) {
             System.out.println(s);
         }
         System.out.println("-----");
+
         Set<Integer> treeSetInt = new TreeSet<>();
         treeSetInt.add(10);
         treeSetInt.add(5);
         treeSetInt.add(1);
         for (Integer integer : treeSetInt) {
             System.out.println(integer);
-
         }
     }
 }

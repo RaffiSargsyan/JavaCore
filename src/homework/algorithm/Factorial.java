@@ -12,7 +12,6 @@ public class Factorial {
             System.out.println(n + " ");
             n++;
         }
-
     }
 
     public static int factorial(int n) {
@@ -22,9 +21,5 @@ public class Factorial {
         factorial(n - 1);
 
         return 1;
-    }
-
-    public static void twoSum(int[] num, int[] number, int n) {
-
     }
 }

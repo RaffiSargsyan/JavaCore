@@ -1,7 +1,5 @@
 package map.allInOne;
 
-import collection.comparableVScomparator.NameComparator;
-
 import java.util.*;
 
 public class Test {
@@ -91,5 +89,4 @@ public class Test {
         System.out.println(queue);
 
     }
-
 }

@@ -11,5 +11,7 @@ public class OverLoadTestDemo {
         overloadTest.test("Hi Mam");
 
         overloadTest.test(25, 0.9, 1998, "It's my birthday");
+        overloadTest.showInfo(1, "one");
+        overloadTest.showInfo("two", 2);
     }
 }

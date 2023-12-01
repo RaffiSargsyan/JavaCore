@@ -15,7 +15,6 @@ public class FindMaximumNumber {
     }
 
     private static int findMaximum(ArrayList<Integer> arrayList) {
-
         int maxNumber = arrayList.get(0);
 
         for (int num : arrayList) {

@@ -46,7 +46,6 @@ public class Calculator {
                 System.out.println("Oops! You can only use with numbers +, -, *, /");
                 return;
         }
-
         System.out.println("Result = " + result);
     }
 }

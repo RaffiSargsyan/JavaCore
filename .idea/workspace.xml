@@ -4,48 +4,120 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4967e75-35a7-4a6d-9ab6-c8d4629dc0e6" name="Changes" comment="Tasks">
-      <change afterPath="$PROJECT_DIR$/src/collection/example/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/example/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/priorityQueue/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/stack/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/stack/FindMaximumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/stack/ReverseStringWithStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/stack/ReverseStringWithoutStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection/stack/StackTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/type/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/type/HumanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/type/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/type/example/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/type/example/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/type/example/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/type/example/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/type/overloading/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/allInOne/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/createMap/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/example/Language.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/example/MyOwnExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/example2/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/example2/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/example2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/hashMapExample/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/map/treeMapExample/Test.java" afterDir="false" />
+    <list default="true" id="d4967e75-35a7-4a6d-9ab6-c8d4629dc0e6" name="Changes" comment="Collections examples">
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/important/Demonstrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/important/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/list/arrayList/arrayListMethods/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/list/binarySearch/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/map/hashMap/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/map/hashTable/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/map/linkedHashMap/Demonstrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/map/treeMap/Demonstrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/map/treeMap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/queue/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/set/hashSet/Demonstrate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/set/hashSet/Digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/set/linkedHashSet/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/set/treeSet/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/set/treeSet/example/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/set/treeSet/example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collectionAndMap/set/treeSet/example/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/algorithm/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/SixthTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice/ThirdTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/MaxNumberFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/count.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapter2/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Example3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapter2/A1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Factorial1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter10/Exc0/Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter10/Exc0/Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter11/ThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter11/ThreadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter11/counter/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter11/counter/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter11/join/JoinExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter11/join/JoinExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter11/join/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter11/join/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter11/newThread/MyThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter11/newThread/MyThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter14/ListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter14/ListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter14/SetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter14/SetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter14/StorageDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter14/StorageDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter14/TreeSetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter14/TreeSetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapters/chapter2/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapters/chapter2/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter2/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Example3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapters/chapter2/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter2/IfSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/IfSample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chapters/chapter2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapters/chapter7/aboutRecursion/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter7/aboutRecursion/Recursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/classwork/Exception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter10/Exc0/Exception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter2/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter8/test1/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/test1/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter8/test1/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/test1/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter8/test1/SimpleInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/test1/SimpleInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter8/test3/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/test3/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter8/test3/RefDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/test3/RefDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter8/test6/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/test6/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter8/test6/BoxWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/test6/BoxWeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter8/test6/Shipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter8/test6/Shipment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter9/test1/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter9/test1/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter9/test2/FixedStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter9/test2/FixedStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapters/chapter9/test2/IntStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapters/chapter9/test2/IntStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/array/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/array/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/dynamicArray/DynamicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/dynamicArray/DynamicArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/dynamicArray/DynamicArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/dynamicArray/DynamicArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/lesson10/BoxDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/lesson10/BoxDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/lesson12/OverLoadTestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/lesson12/OverLoadTestDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/classwork/lesson12/OverloadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/lesson12/OverloadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/collection/CollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/collectionExample/CollectionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/collection/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/collectionExample/MapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/collection/NotIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/collectionExample/NotIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/lesson22/fileExample/DataIOStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/lesson22/fileExample/FileExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/lesson22/fileExample/fileExample/ioExample/file/DataIOStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/lesson22/fileExample/fileExample/ioExample/file/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/FirstTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/lesson22/fileExample/testFolder/hello.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/lesson22/fileExample/testFolder/hello2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/practice/SecondTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/lesson24/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/lesson24/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/lesson24/StorageDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/lesson24/StorageDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/stack/StacDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/stack/StacDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classwork/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classwork/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/collectionExample/CollectionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/collectionExample/CollectionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/collectionExample/MapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/collectionExample/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/exampleList2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/exampleList2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/exampleSet/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/exampleSet/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/exampleSet/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/exampleSet/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/priorityQueue/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/priorityQueue/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/stack/FindMaximumNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/stack/FindMaximumNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collection/stack/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collection/stack/StackTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/ArrayExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/exercise/ArrayExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/CharsMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/exercise/CharsMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercise/PracticeMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/exercise/PracticeMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/algorithm/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/algorithm/Factorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/algorithm/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/algorithm/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/algorithm/TwoSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/bracechacker/BraceChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/bracechacker/BraceChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/arrayList/arrayListMethods/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/arrayList/arrayListMethods/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/arrayList/arrayListMethods/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/arrayList/arrayListMethods/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/arrayList/arrayListMethods1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/arrayList/arrayListMethods1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/arrayList/arrayListMethods2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/arrayList/arrayListMethods2/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/arrayList/arrayListMethods3/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/arrayList/arrayListMethods3/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/arrayList/arrayListMethods3/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/arrayList/arrayListMethods3/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/arrayList/arrayListMethods3/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/arrayList/arrayListMethods3/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/binarySearch/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/binarySearch/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/binarySearch/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/binarySearch/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/binarySearch/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/iterator/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/map/iterator/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/linkedList/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/linkedList/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/linkedList/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/linkedList/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/listIterator/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/listIterator/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/listIterator/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/listIterator/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/listIterator/Reverse2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/listIterator/Reverse2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/stack/Demonstrate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/stack/Demonstrate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/stack/StackExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/stack/StackExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/collection/vector/Demonstrate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/collectionAndMap/list/vector/Demonstrate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/stack/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/stack/StackDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/string/StringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/string/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/allInOne/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/allInOne/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/example/MyOwnExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/example/MyOwnExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/treeMapExample/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/map/treeMapExample/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/ClassCastExceptionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practice/Dog.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +136,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -71,6 +148,14 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d62ba4a8-a503-41c0-8a51-8e51b1b010d2" />
+        <option name="url" value="https://github.com/RaffiSargsyan/JavaCore.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/io/BufferedWriter.java" root0="SKIP_INSPECTION" />
@@ -82,14 +167,22 @@
     <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/lang/Runnable.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/lang/Thread.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/ArrayList.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/Collection.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/Collections.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/HashSet.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/Iterator.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/LinkedHashMap.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/LinkedList.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/Set.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/Vector.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.desktop/javax/swing/Box.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2L3S2JKLCvKdcq5jdaf1Hq4jonf" />
   <component name="ProjectLevelVcsManager">
@@ -98,28 +191,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TODO_SCOPE": "All Places",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/students",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;All Places&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/students&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="map.allInOne" />
@@ -144,13 +237,13 @@
       <recent name="chapters.chapter6.inheritance4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.homework.type.overloading.Test">
-    <configuration name="HumanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.type.HumanTest" />
+  <component name="RunManager" selected="Application.MapExample">
+    <configuration name="CollectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.collectionExample.CollectionExample" />
       <module name="JavaCore" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="homework.type.*" />
+          <option name="PATTERN" value="collection.collectionExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,7 +251,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.collectionExample.CollectionExample" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.collectionExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection.collectionExample.MapExample" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection.collectionExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionAndMap.list.listIterator.Palindrome" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collectionAndMap.list.listIterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice.Reverse" />
+      <module name="JavaCore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="map.allInOne.Test" />
       <module name="JavaCore" />
       <extension name="coverage">
@@ -184,98 +329,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map.allInOne.Test" />
+    <configuration name="homework.type.array.Test" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.type.array.Test" />
       <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="map.allInOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map.allInOne.Test" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="map.allInOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map.allInOne.Test" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="map.allInOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="map.allInOne.Test" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="map.allInOne.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework.type.example.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.type.example.Test" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.type.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework.type.overloading.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.type.overloading.Test" />
-      <module name="JavaCore" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.type.overloading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HumanTest" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.homework.type.example.Test" />
-      <item itemvalue="Application.homework.type.overloading.Test" />
-      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.homework.type.array.Test" />
+      <item itemvalue="Application.CollectionExample" />
+      <item itemvalue="Application.MapExample" />
+      <item itemvalue="Application.Palindrome" />
+      <item itemvalue="Application.Reverse" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homework.type.overloading.Test" />
-        <item itemvalue="Application.homework.type.example.Test" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.HumanTest" />
-        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.CollectionExample" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="Application.CollectionExample" />
+        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -400,7 +474,17 @@
       <workItem from="1699612032877" duration="4987000" />
       <workItem from="1699696519420" duration="20490000" />
       <workItem from="1699961114379" duration="13639000" />
-      <workItem from="1700047427840" duration="12172000" />
+      <workItem from="1700047427840" duration="14701000" />
+      <workItem from="1700121083959" duration="28708000" />
+      <workItem from="1700197158236" duration="5090000" />
+      <workItem from="1700233446428" duration="23701000" />
+      <workItem from="1700664581890" duration="7153000" />
+      <workItem from="1700849720039" duration="42000" />
+      <workItem from="1700882913126" duration="443000" />
+      <workItem from="1701021977148" duration="7000" />
+      <workItem from="1701023004921" duration="2388000" />
+      <workItem from="1701257370480" duration="5385000" />
+      <workItem from="1701417693641" duration="16168000" />
     </task>
     <task id="LOCAL-00001" summary="ExampleOne">
       <created>1675100451380</created>
@@ -556,7 +640,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699556648654</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Examples">
+      <created>1700069040241</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1700069040241</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Collections examples">
+      <created>1700156838110</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1700156838110</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,53 +706,13 @@
     <MESSAGE value="Again examples2" />
     <MESSAGE value="Again" />
     <MESSAGE value="Again Example" />
-    <MESSAGE value="Examples" />
     <MESSAGE value="Example" />
     <MESSAGE value="Again tasks" />
     <MESSAGE value="Different tasks" />
     <MESSAGE value="Tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tasks" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapters/chapter5/cycleFor/ForEach3.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapters/chapter5/keywordBreak/BreakLoop3.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapters/chapter5/operatorIf/IfElse.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapters/chapter5/keywordSwitch/StringSwitch.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chapters/chapter5/While.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="59" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/homework/fileUtil/FileUtil.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/collection/stack/ReverseStringWithoutStack.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="63" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Examples" />
+    <MESSAGE value="Collections examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections examples" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

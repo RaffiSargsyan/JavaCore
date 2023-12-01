@@ -27,8 +27,8 @@ public class IfSample {
         String str1 = "BB";
         System.out.println(str.equals(str1));
 
-        System.out.println(str.hashCode()); //2112
-        System.out.println(str1.hashCode());//2112
+        System.out.println(str.hashCode());   //2112
+        System.out.println(str1.hashCode());  //2112
 
         double b = 201.1;
         int b1;

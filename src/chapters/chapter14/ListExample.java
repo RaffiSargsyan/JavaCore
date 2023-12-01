@@ -16,9 +16,8 @@ public class ListExample {
         arrayList.add(1, "Amal");
         System.out.println(arrayList.get(1));
 
-
         for (String s : arrayList) {
-            System.out.print(s);
+            System.out.print(s + " ");
         }
     }
 }

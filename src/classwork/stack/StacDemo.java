@@ -7,8 +7,6 @@ public class StacDemo {
         myStack.push(4);
         myStack.push(9);
 
-
-
         System.out.println(myStack.pop());
         System.out.println(myStack.pop());
 
@@ -19,5 +17,4 @@ public class StacDemo {
 
         System.err.println(myStack.pop());
     }
-
 }
