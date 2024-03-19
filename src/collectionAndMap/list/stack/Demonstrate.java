@@ -25,8 +25,8 @@ public class Demonstrate {
     }
 
     public static void main(String[] args) {
-        System.out.println("main starts");
+        System.out.println("Hello starts");
         abc4();
-        System.out.println("main ends");
+        System.out.println("Hello ends");
     }
 }

@@ -7,6 +7,6 @@ public class Test {
         Thread t = new MyThread("t");
         t.start();
 //        t.run();
-        System.out.println("main");
+        System.out.println("Hello");
     }
 }
